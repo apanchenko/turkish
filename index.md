@@ -4,6 +4,7 @@
 - [Гармония](#гармония)
 - [Числительные](#числительные)
 - [lar](#lar---множественное-число)
+- [С Без](#с-или-без)
 - [Время](#время)
 - [dır](#dır)
 - [ki](#ki)
@@ -14,6 +15,7 @@
 - [Ca](#ca)
 - [Gibi kadar](#gibi-kadar)
 - [Падежи](#падежи)
+- [Изафеты](#изафеты)
 - [Формы глаголов](#формы-глаголов)
 - [Emir kipi - повелительное-наклонение](#emir-kipi)
 - [İstek kipi - пожелание](#istek-kipi)
@@ -72,6 +74,14 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 *Исключения:*
 - saatler
 - harfler
+
+## С или Без
+**lı li lu lü**
+- С
+- жители регионов
+
+**sız siz suz süz**
+- Без
 
 ## Время
 ### Сколько времени? - Saat kaç?
@@ -175,12 +185,10 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 ## ken
 **+ (y)ken**
 - Когда
-
-*Örnekler:*
-- Çocukken çok yaramazdı
-- Ben İstanbul’dayken çok mutlu oluyordum.
-- Babam gençken çok iyi futbol oluyordu.
-- Annem evde yokken kahvaltı ben pişiriyorum.
+  - Çocukken çok yaramazdı
+  - Ben İstanbul’dayken çok mutlu oluyordum.
+  - Babam gençken çok iyi futbol oluyordu.
+  - Annem evde yokken kahvaltı ben pişiriyorum.
 
 ## cık
 **+ (y)cık**
@@ -276,6 +284,28 @@ Yüksekten korkarım
 - предмет конкретный
   - bu çıkolatayı istiyorum
   - sergi salonunu
+
+## Изафеты
+### Притяжательный изафет
+**кого/чего? + (n) + ı i u ü + n главное + (s) + ı i u ü**
+- Murat'ın gözlüğü
+- Ali'nin arabası
+
+### Относительный изафет
+**без изафета (s) + ı i u ü**
+- какой? разновидности
+  - Çilek reçeli
+  - Masa saati
+- какой? география
+  - Ev bahçesi
+
+### Качественный изафет
+**без изафета без изафета**
+- только не о еде
+  - Gümüş küpe
+
+### Изафетная цепь
+- Arkadaşımın arabası + Arabanın tekerleği = Arkadaşımın arabasının tekerleği
 
 ## Формы глаголов
 ### Şimdiki zaman
@@ -431,6 +461,20 @@ Yüksekten korkarım
   - Biz yapma+y+ız
   - Siz yapma+z+sınız
   - Onlar yapma+z+lar
+
+### Мочь
+- мочь, уметь **корень + a e + bilmek + время + л.аф**
+  - Sen şimdi görebiliyorsun → Ты сейчас можешь видеть.
+  - Biz insanları ikna edibiliriz → Мы умеем уговаривать людей.
+  - Siz buraya gelebildiniz → Вы смогли сюда приехать.
+  - Onlar buraya gelebilecekler → Они смогут сюда приехать.
+  - Sen otobüsle merkeze gidebilir misin? → Ты на автобусе можешь доезжать до центра?
+- не мочь, не уметь **корень + a e + ma me + время + л.аф**
+  - konuşamamak, görememek, anlayamamak
+  - Ben şimdi konuşamıyorum çünkü ben toplantıdayım → Я сейчас не могу говорить, потому что я на собрании.
+  - Sen yarın buraya gelemeyeceksin cünkü sen yarın gideceksin → Ты не сможешь приехать сюда завтра, потому что уезжаешь.
+  - O şimdi cevap veremez → Он сейчас не может ответить.
+  - O bir saat sonra cevap veremeyecek → Он не сможет ответить через час.
 
 ## Sözlük
 ### Существительные
