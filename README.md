@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD022 MD032 MD036 MD041 -->
 # turkish
 
 1. Frontend Development:
@@ -19,3 +20,8 @@ For the frontend, you can use the development server:
 cd frontend
 npm start
 ```
+
+## Bağlantılar
+- [sözlük](https://tureng.com/tr/turkce-ingilizce)
+- [stemmer](https://github.com/otuncelli/turkish-stemmer-python)
+- [morfoloji](https://github.com/google-research/turkish-morphology)

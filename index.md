@@ -432,6 +432,7 @@ Yüksekten korkarım
   - Serpil bu konuyu biliyor. → Эту тему знает.
   - Ben onu iyi tanıyorum. → Я ее хорошо знаю.
 - Неопределённое будущее время или спонтанное решение
+  - Baba, bana yeni bir bisiklet alır mısın?
 
 Образование:
 - Корень на гласную **r + л.аф**
@@ -463,13 +464,13 @@ Yüksekten korkarım
   - Onlar yapma+z+lar
 
 ### Мочь
-- мочь, уметь **корень + a e + bilmek + время + л.аф**
+- мочь, уметь **корень + (y) a e + bilmek + время + л.аф**
   - Sen şimdi görebiliyorsun → Ты сейчас можешь видеть.
   - Biz insanları ikna edibiliriz → Мы умеем уговаривать людей.
   - Siz buraya gelebildiniz → Вы смогли сюда приехать.
   - Onlar buraya gelebilecekler → Они смогут сюда приехать.
   - Sen otobüsle merkeze gidebilir misin? → Ты на автобусе можешь доезжать до центра?
-- не мочь, не уметь **корень + a e + ma me + время + л.аф**
+- не мочь, не уметь **корень + (y) a e + ma me + время + л.аф**
   - konuşamamak, görememek, anlayamamak
   - Ben şimdi konuşamıyorum çünkü ben toplantıdayım → Я сейчас не могу говорить, потому что я на собрании.
   - Sen yarın buraya gelemeyeceksin cünkü sen yarın gideceksin → Ты не сможешь приехать сюда завтра, потому что уезжаешь.
@@ -583,6 +584,8 @@ Yüksekten korkarım
 - Görüşürüz - увидимся
 - Görüşmek üzere - до встречи
 - Seneye görüşürüz - увидимся в следующем году
+- Kusura bakma - no offence, excuse me
+- Haksızlık bu - это несправедливо
 
 ### Пословицы
 - Aça arpa ekmeği etten lezzetli gelir. - Голодному Федоту и репа в охоту.
@@ -598,8 +601,10 @@ Yüksekten korkarım
 - acaba - интересно
 - maalesef - к сожалению
 - özür dilerim - извините
+- Kutlarım - поздравляю
 - sağol - спасибо
 - haydi - давай
+- fark etmez - не имеет значения
 - dün niçin beni aramadım
 - daha doğrusu - точнее сказать
 - yürüyerek - пешком
@@ -653,7 +658,4 @@ Yüksekten korkarım
 - Elbette, tabii ki - разумеется
 - olur - можно
 - olmaz - нельзя
-
-## Bağlantılar
-- [stemmer](https://github.com/otuncelli/turkish-stemmer-python)
-- [morfoloji](https://github.com/google-research/turkish-morphology)
+- merak etme - не беспокойся
