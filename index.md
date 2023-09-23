@@ -184,6 +184,10 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 ## ki
 - **Образование относительных прилагательных:**
   - Masadaki kitapları al. → Возьми книги, которые на столе.
+  - Buradaki şişedeki şarabi içiyoruz → Мы пьем вино, которое в бутылке здесь
+  - Şu şişedeki sütü kuzu içer. → Ягнёнок пьёт молоко, которое в той бутылке.
+  - Dünkü yemek çok güzeldi. → Вчерашняя еда была очень вкусной.
+  - Önceki sekreterim daha iyiydi. → Моя предыдущая секретарша была лучше.
 - **Образование союзов:** В этом случае "ki" используется как союз, связывающий два предложения и выражающий причину или цель.
   - Çalışıyor ki başarılı olacak. → Он работает, чтобы быть успешным.
 
@@ -320,20 +324,25 @@ Yüksekten korkarım
 - Murat'ın gözlüğü
 - Ali'nin arabası
 
-| Л.аф           | притяжательный изафет |
-|----------------|-----------------------|
-| ben mimarım    | benim mimarım         |
-| ben aşçıyım    | benim aşçım           |
-| sen mimarsın   | senin mimarın         |
-| sen aşçısın    | senin aşçın           |
-| o mimardır     | onun mimarı           |
-| o aşçı         | onun aşçısı           |
-| biz mimarız    | bizim mimarımız       |
-| biz aşçıyız    | bizim aşçımız         |
-| siz mimarsınız | sizin mimarınız       |
-| siz aşçısınız  | sizin aşçınız         |
-| onlar mimarlar | onların mimar         |
-| onlar aşçılar  | onların aşçısı        |
+|              | ben        | sen        | o            | biz            | siz            | onlar       |
+|--------------|------------|------------|-----------  -|----------------|----------------|-------------|
+| именительный |            |            |              |                |                |             |
+|              | (y)Im      | sIn        |              | (y)Iz          | sInIz          | lAr         |
+|              | satıcıyım  | satısın    | satıcı       | satıcıyız      | satıcısınız    | satıcılar   |
+|              | mühendis   | mühendisin | mühendis     | mühendisiz     | mühendisiniz   | mühendisler |
+| родительный  |            |            |              |                |                |             |
+|              | глас   m   | глас:  n   | глас: sI     | глас:  mIz     | глас:  nIz     | глас:  sI   |
+|              | согл: Im   | согл: Im   | согл:  I     | согл: ImIz     | согл: InIz     | согл:   I   |
+|              | benim      | senin      | onun         | bizim          | sizin          | onların     |
+|              | satıcım    | satıcın    | satıcısı     | satıcımız      | satıcınız      | satıcısı    |
+|              | mühendisim | mühendisin | mühendisi    | mühendisimiz   | mühendisiniz   | mühendisi   |
+|        mimar | mimarım    | mimarın    | mimarı       | mimarımız      | mimarınız      | mimarı      |
+|         aşçı | aşçım      | aşçın      | aşçısı       | aşçımız        | aşçınız        | aşçısı      |
+| дательный    |            |            |              |                |                |             |
+| винительный  |            |            |              |                |                |             |
+| творительный |            |            |              |                |                |             |
+| местный      |            |            |              |                |                |             |
+| исходный     |            |            |              |                |                |             |
 
 ### Относительный изафет
 **без изафета (s) + ı i u ü**
