@@ -34,21 +34,34 @@
     - [mak mek](#mak-mek)
     - [ma me](#ma-me)
     - [ış iş uş üş](#ış-iş-uş-üş)
+  - [Косвенная и прямая речь](#косвенная-и-прямая-речь)
+  - [Ip](#ıp)
+  - [Действие не сделав что-то - madan](#madan)
+  - [Должен - malı](#malı)
 - [Bağlaçlar](#bağlaçlar)
+
+| Тема                        | афикс                                                     |
+|-----------------------------|-----------------------------------------------------------|
+|                             |                                                           |
+|                             |                                                           |
+| Косвенная речь              | [ma/me + притяжательный изафет](#косвенная-и-прямая-речь) |
+| Действие после действия     | [ıp](#ıp)                                                 |
+| Сделать не сделав что-то    | [madan](#madan)                                           |
+
 
 ## Алфавит
 A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 
 ## Гармония
-*Малая гармония*
-- a ı o u → a
-- e i ö ü → e
+- Малая гармония, далее A
+  - a, ı, o, u → a
+  - e, i, ö, ü → e
 
-*Большая гармония*
-- a ı → ı
-- e i → i
-- o u → u
-- ö ü → ü
+- Большая гармония, далее I
+  - a, ı → ı
+  - e, i → i
+  - o, u → u
+  - ö, ü → ü
 
 ## Числительные
 
@@ -130,7 +143,7 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 
 *Sözlük:*
 - Vakit - время
-- hiöbir zaman - никогда
+- hiçbir zaman - никогда
 - bugüne kada hiç - никогда ранее
 - Geçen sefer - прошлый раз
 - geçen yıl - в прошлом году
@@ -152,7 +165,9 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 - Son olarak - наконец, ..
 - en kisa bir zaman - как можно скорее
 - en kısa zamanda - как можно скорее
+- bir an önce - как можно скорее
 - hemen - немелденно
+- derhal - немедленно
 - bundan sonra - после этого
 - döndükten sonra - после возвращения
 - bu saatlerde - в это время
@@ -194,6 +209,8 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 
 ## Отрицание
 **корень + m**
+
+- Çocuklar dün parkta değillerdi. → Дети вчера не были в парке.
 
 ## Я сам
 - ben kendim - я сам
@@ -248,14 +265,14 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 ## gibi kadar
 ### gibi - такой же
 - **gibi следует после существительного или местоимения, с которым оно сравнивается**
-  - O, bir kuş gibi hızlı koşuyor. (Он бежит так быстро, как птица.)
-  - Bu çiçek, güneş gibi parlak. (Этот цветок яркий, как солнце.)
+  - O, bir kuş gibi hızlı koşuyor. → Он бежит так быстро, как птица.
+  - Bu çiçek, güneş gibi parlak. → Этот цветок яркий, как солнце.
 - **gibi может использоваться для выражения подобия внешности или характеристик**
-  - O, bir prenses gibi güzel. (Она красива, как принцесса.)
-  - Bu ev, bir kale gibi büyük. (Этот дом большой, как замок.)
+  - O, bir prenses gibi güzel. → Она красива, как принцесса.
+  - Bu ev, bir kale gibi büyük. → Этот дом большой, как замок.
 - **gibi может использоваться для описания поведения или стиля**
-  - Çocuklar, birbirleriyle oyun oynar gibi konuşuyor. (Дети говорят друг с другом, как будто играют.)
-  - O, sahneye bir yıldız gibi çıktı. (Он вышел на сцену, словно звезда.)
+  - Çocuklar, birbirleriyle oyun oynar gibi konuşuyor. → Дети говорят друг с другом, как будто играют.
+  - O, sahneye bir yıldız gibi çıktı. → Он вышел на сцену, словно звезда.
 
 ### kadar - примерно такой как
 - **kadar связано с прилагательным или наречием, указывает на качество**
@@ -284,12 +301,13 @@ Benim gibi - senin kadar - onun gibi - bizim gibi - onlar gibi
 Глаголы управляют падежом
 
 | Винительный | Направительный | Исходный     | Местный      |
-|-------------|----------------|--------------|
-| başarmak    | çalışmak       | nefret etmek | kararli
-| sevmek      | başlamak       | başlamak     | ısrar
-| denemek     | bayılmak       |              |
-| bırakmak    | alışmak        |              |
-| sürdürmek   |                |              |
+|-------------|----------------|--------------|--------------|
+| başarmak    | çalışmak       | nefret etmek | kararli      |
+| sevmek      | başlamak       | başlamak     | ısrar        |
+| denemek     | bayılmak       | korkmak      |              |
+| bırakmak    | alışmak        |              |              |
+| sürdürmek   | bulaştırmak    |              |              |
+| söylemek    |                |              |              |
 
 ### Направительный падеж
 **(y) + a e**
@@ -455,21 +473,19 @@ Yüksekten korkarım
 ### muş
 **mış miş muş müş**
 - Говорят что. Прошедшее о котором мы от кого-то узнали
+  - Ben dün akşam saat sekizde eve gelmişim
+  - Sen geçen cuma bir saat erken kızını almışsın
+  - Biz yanlış yapmışız
+  - Siz borcunuzu ödemişsiniz
+  - Onlar İstanbul'da on yıl oturmuşlar
 - Оказывается. Прошедшее время
+  - Meğerse bir saat önce Katya gitmiş - Видимо Катя ушла час назад
+  - Meğerse sen uçakla gitmişsin - Видимо ты улетел на самолете
+  - Meğerse su kaynamış - Видимо вода закипела
+  - Meğerse biz dün İzmere gelmişiz
+  - Meğerse siz yanliş yere dönmüşsünüz. U dünüş yapın
+  - Meğerse onlar çocuku yanlış okula götürmüşler
 - С существительным или прилагательным. Прошедшее или настоящее время
-
-*Örnekler:*
-- Ben dün akşam saat sekizde eve gelmişim
-- Sen geçen cuma bir saat erken kızını almışsın
-- Biz yanlış yapmışız
-- Siz borcunuzu ödemişsiniz
-- Onlar İstanbul'da on yıl oturmuşlar
-- Meğerse bir saat önce Katya gitmiş - Видимо Катя ушла час назад
-- Meğerse sen uçakla gitmişsin
-- Meğerse su kaynamış
-- Meğerse biz dün İzmere gelmişiz
-- Meğerse siz yanliş yere dönmüşsünüz. U dünüş yapın
-- Meğerse onlar çocuku yanlış okula götürmüşler
 
 ### uyormuş
 - Говорят что делаю сейчас
@@ -495,8 +511,8 @@ Yüksekten korkarım
   - Ben sabahları koşarım. → По утрам я занимаюсь бегом.
   - Ben abim her zaman bana yardım eder. → Мой старший брат все время помогает мне.
   - Biz her yıl ailece buraya geliriz. → Мы каждый год всей семьей приезжаем сюда.
-  - O her gün filmler seyreder. → Он каждый день смотрит фильмы.
-  - Ben çok iyi yüzerim. → Я очень хорошо плаваю.
+  - O her gün filmler seyred**er**. → Он каждый день смотрит фильмы.
+  - Ben çok iyi yüz**er**im. → Я очень хорошо плаваю.
   - Serpil düzenli ödev yapar. → Серпиль регулярно делает домашние задания.
   - Serpil bu konuyu biliyor. → Эту тему знает.
   - Ben onu iyi tanıyorum. → Я ее хорошо знаю.
@@ -571,7 +587,11 @@ Yüksekten korkarım
   - Yüzmek çok faıdalı → Плавание очень полезно
   - Onlar seni bulmak istiyorlar → Они хотят тебя найти
   - Spor yapmak çok önemli. → Заниматься спортом очень важно.
-  - Seninle kahvaltı yapmak süper! → Завтракать с тобой супер!
+  - Seninle kahvaltı yap**mak** süper! → Завтракать с тобой супер!
+  - Evde yalnız kal**mak** beni korkutuyor. → Оставаться дома одному меня пугает.
+  - Türkçe öğren**mek** zor değil. → Учить турецкий не сложно.
+  - Seni yeniden aramızda gör**mek** harika. → Увидеть тебя снова среди нас здорово.
+  - Canım çilek ye**mek** istiyor → мне хочется клубники
 - Сказуемое управляет исходным падежом
   - Ben burada yaşamak**tan** nefret idiyorum → Я ненавижу жить здесь
   - Ben her gün potates yemek**ten** bıktım → Я устал есть картошку каждый день
@@ -579,9 +599,9 @@ Yüksekten korkarım
   - Ben saatlerce ofiste oturmak**tan** sıkırlıyorum → Я устал сидеть в офисе часами
   - Ben oraya gitmek**ten** korkuyorum → Я боюсь идти туда
   - Sen insanlarla konuşmak**tan** korkuyorsun → Ты боишься разговаривать с людьми
-  - Ben oraya gitmekten vazgeçtim → Я передумал идти туда
-  - O Türkçe konuşmaktan utanıyor → Он стесняется говорить по-турецки
-  - Ben her gün erken kalkmaktan sıkırlıyorum → Я устал каждый день рано вставать
+  - Ben oraya gitmek**ten** vazgeçtim → Я передумал идти туда
+  - O Türkçe konuşmak**tan** utanıyor → Он стесняется говорить по-турецки
+  - Ben her gün erken kalkmak**tan** sıkırlıyorum → Я устал каждый день рано вставать
 - la le
   - Ben spor yapmakla meşgulüm → Я занят тем, что занимаюсь спортом
   - Ben benim çocuklarımı eğitmekle meşgulüm → Я занята тем, что воспитываю своих детей
@@ -592,13 +612,14 @@ Yüksekten korkarım
   - Ben seni aramayi düşündüm → Я подумал позвонить тебе
   - Siz cevirmeyi unuttunuz → Вы забыли перевести
   - Ben dans etmeyi seviyorum → Я люблю танцевать
+  - Benden nefret et**meyi** istemiyorum - Я не хочу, чтобы ты ненавидел меня
 - Сказуемое управляет направительным падежом
   - Ben spor yapmaya gidiyorum → Я иду заниматься спортом
   - Beni rahatsız etmeyin → Не беспокойте меня
   - O Türkiye'de olmaya seviniyor → Он рад быть в Турции
 - То что... (только в начале)
   - Katyan'**ın** burada yaşama**sı** benim için iyi → То что Катя живет здесь для меня хорошо
-  - Benim çorba yapabilme+m bizim için iyi → То, что я умею готовить суп, для нас хорошо
+  - Benim çorba yapabilmem bizim için iyi → То, что я умею готовить суп, для нас хорошо
   - Anton'**un** Türkiye'de yaşama**sı** harika → То, что Антон живет в Турции, очень хорошо
   - Katya'n**ın** çalışma**sı** onun ailesi ..
   - Ben sizin beni dinlemenizi istiyorum → Я хочу, чтобы вы меня слушали
@@ -615,6 +636,8 @@ Yüksekten korkarım
   - sizin uyumanız gerek/lazım → вам нужно спать
   - onların uyumaları gerek/lazım → им нужно спать
   - Sigara içmemeniz gerek çünkü daha hızlı ölürsünüz
+- ??
+  - Senin bu eve gelmen yasak → Тебе запрещено приходить в этот дом
 
 #### ış iş uş üş
 - То как...
@@ -622,6 +645,70 @@ Yüksekten korkarım
   - Katya’n**ın** Türkçe konuşu**şu** herkesi kızdırıyor → То, как Катя говорит по-турецки, раздражает всех
 - Образует существительное
   - anlayış, çıkış, giriş, kalkış, iniş, atlayış, düşüş, bağırış, sürüş
+
+### Косвенная и прямая речь
+
+| Прямая речь                     | Косвенная речь                                           |
+|---------------------------------|----------------------------------------------------------|
+|                                 | **🥕 + ma/me + притяжательный изафет**                   |
+| Levent markette karpuz al       | Katya Levent**in** marketten karpuz alma**sını** söyledi |
+| Ekin bana Türkçe öğret.         | Anton Ekin**in** ona Turkçe ogretme**sini** söyledi      |
+| Katya ve Anton lütfen dinleyin. | Ekin Katya**nin** ve Anto**nun** dinle**mesini** söyledi |
+
+### ıp
+**🥕 + Ip**
+1. Одно действие сознательно заканчиваем и переходим к другому действию.
+    - Meryem odaya gir**ip** Okan'ı aradı. - Мерьем вошла в комнату и позвала Окана.
+    - Ekaterina suyu al**ıp** Çaydanlığa döktü. - Катя взяла воду и налила в чайник.
+    - Anton çocugu uyut**up** yanımıza geldi. - Антон уложил ребенка спать и пришел к нам.
+    - Katya metroya gir**ip** karta para yükleyecek. - Катя войдет в метро и пополнит карту.
+    - Mesut vedalaşma**yıp** gitti. - Месут ушел не попрощавшись. Сознательно.
+    - Hafta sonu evde oturma**yıp** arkadaşımı ziyaret ettim. - Я не сидел дома в выходные а посетил друга.
+    - Şoför kırmızı ışıkta durma**yıp** herkesin hayatını tehlikeye attı. - Водитель не остановился на красный свет и поставил под угрозу жизнь всех.
+    - Kütüphaneye gid**ip** bu konuyu araştıralım. - Пойдем в библиотеку и изучим эту тему.
+    - Filmi seyred**ip** bize de anlatın. - Посмотрите фильм и расскажите нам.
+    - Bana "Günaydın." deme**yip** yanımdan geçti. - Он прошел мимо не поздоровавшись со мной.
+    - Mayosunu giy**ip** havuza girdi. - Он надел купальник и вошел в бассейн.
+    - Öğrenciler sınavı bitir**ip** sınıftan çıktı. - Студенты закончили экзамен и вышли из класса.
+    - Bahçeye çık**ıp** çiçek topladık. - Мы вышли в сад и собрали цветы.
+    - Işığı kapa**yıp** uyudu. - Он выключил свет и лег спать.
+    - Lokantayı ara**yıp** akşam yemeği için rezervasyon yaptırdı.
+    - Markete gir**ip** bir ekmek aldı.
+    - Kitapları masaya ko**yup** dışarıya çıktı. - Он положил книги на стол и вышел на улицу.
+    - Sema kafeteryada bizi gör**üp** yanımıza geldi. - Сема увидела нас в кафетерии и подошла к нам.
+    - Paketi aç**ıp** içinden hediyesini çıkardı. - Он открыл пакет и достал из него подарок.
+2. Действие повторяется раз за разом
+    - Mürsel iç**ip** iç**ip** bizi rahatsız ediyor. - Мурсель постоянно пьет и беспокоит нас.
+    - Oktay ağlay**ıp** ağlay**ıp** bizden para istiyor. - Октай постоянно плачет и просит у нас деньги.
+
+### mAdAn
+**🥕 + mAdAn**
+1. Выполнять действие не сделав что-то.
+    - Katya kahvaltı yap**madan** evden çıktı. - Катя вышла из дома не позавтракав.
+    - Anton müdürle konuş**madan** ofisten aceleyle çıktı. - Антон поспешил выйти из офиса не поговорив с директором.
+    - Mesut vedalaş**madan** arkadaşlarının yanından gitti. - Месут ушел от друзей не попрощавшись. Может и хотел но не получилось.
+    - Öğretmenden izin al**madan** sınıftan çıktı. - Он вышел из класса не взяв разрешения у учителя.
+    - Ellerini yıka**madan** yemeğe başladı. - Он начал есть не вымыв руки.
+    - Bu akşam geç vakte kadar ders çalış**madan** erken yatacağım. - Сегодня я пойду спать рано не занимаясь до поздна.
+2. Условное действие без выполнения которого основное действие не осуществляется.
+    - Ben kahve iç**meden** yapamam. - Я не могу жить без кофе.
+    - Para ödeme**meden*** pasaport olamam. - Я не могу получить паспорт не заплатив деньги.
+    - Yağmur dur**madan** dışarı çıkmayacağım. - Я не выйду на улицу пока не перестанет дождь.
+
+### malı
+- **🥕 + mAlI + л.аф** дожен, должны вообще.
+  - Ben çalış**malı**yım hayat çünkü hayat çok zor - Я должен работать, потому что жизнь очень трудна
+  - Sen burada çalış**malı** mısın? - Ты должен здесь работать?
+  - Hayır, o sana yardım etme**meli** - Нет, он не должен тебе помогать
+- **🥕 + mAlI + ydI + л.аф** дожен был, были должны.
+  - Allah'ım! Ben telefon faturasını öde**meliydim** - Боже мой! Я должен был оплатить счет за телефон
+  - Anton bugüm Ekin'i ara**malı** mı**ydı**? - Антон должен был позвонить Экину сегодня?
+  - Natalya ve Leyla çay bardakları alma**malı** mı**ydı**? - Наталя и Лейла должны были взять чашки для чая?
+  - Siz bunlara inanma**malıydı**nız - Вы не должны были им верить
+  - Sen dün ne yap**malıydı**n? - Что ты должен был сделать вчера?
+- **🥕 + mAlI + ymIş + л.аф** говорят должен был.
+  - Biz şimdi İstanbul'da 10 gün kal**malımış**ız - Мы должны были остаться в Стамбуле на 10 дней
+  - Anton bugün saat beşte toplantı bağlan**malıydı** - Антон должен был присоединиться к собранию в пять часов сегодня
 
 ### Bağlaçlar
 - **ve** - и
@@ -669,6 +756,7 @@ Yüksekten korkarım
 - yaşam biçim - образ жизни
 - param - деньги
 - harçlık - карманные деньги
+- ekinokta - двоеточие
 
 ### Глаголы - fiiller
 - başlamak - начинать
@@ -689,7 +777,7 @@ Yüksekten korkarım
 - bilmem - не знаю
 - hoşlanmak - нравиться
 - vazgeçmek - передумать
-- ayrılmak - уезжать
+- ayrılmak - уезжать, расставаться
 - unutmak - забывать
 - ekşimek - киснуть
 - seçmek - выбирать
@@ -704,10 +792,10 @@ Yüksekten korkarım
 - atmak - бросать (bir taş atmak)
 - rüzgar esiyor - дует ветер
 - kırmak - ломать
+- bağırmak - кричать
 - kavga etmek - драться
 - inanamıyorum - не могу поверить
 - buluşmak - встречаться
-- bağırmak - кричать
 - göstermek - показывать
 - çıkarmak - вынимать
 - imzalamak - подписывать
@@ -716,15 +804,30 @@ Yüksekten korkarım
 - çiçekleri sulamak - поливать цветы
 - Telefonun şifresi açmak - разблокировать телефон
 - bayılmak - обожать
-- ölüdrmek - убивать
+- öldürmek - убивать
 - sevinmek - радоваться
 - sevmek - любить
+- bayılmak - обожать
 - başarmak - достигать
 - denemek - пробовать
-- bayılmak - обожать
 - bırakmak - оставлять
 - sürdürmek - продолжать
 - alışmak - привыкать
+- ısrar etmek - настаивать
+- girmek - входить
+- incelemek - изучать, проверять, рассматривать
+- tatmak - пробовать
+- bankaya para çekmek - снимать деньги с банка
+- bırakmak - оставлять
+- bulmak - находить
+- çıkmak - выходить
+- çağırmak - звать
+- üzmek - огорчать
+- düzeltmek - исправлять
+- bulmak - находить
+- düzenlemek - организовывать
+- çabalamak - стараться
+- satmak - продавать
 
 ### Прилагательные - sıfat
 - özel - особенный
@@ -741,6 +844,7 @@ Yüksekten korkarım
 - zengin - богатый
 - dayanık - прочный
 - tuhaf - странный
+- buzdolabı bomboş - холодильник пустой
 
 ### Приветствие
 - Merhaba - привет
@@ -794,6 +898,7 @@ Yüksekten korkarım
 - Kusura bakma - no offence, excuse me
 - Haksızlık bu - это несправедливо
 - Sen hangi arabadan bahsediyorsun? - О какой машине ты говоришь?
+- Şükürler olsun - Слава Богу, Аллилуя
 
 ### Пословицы
 - Aça arpa ekmeği etten lezzetli gelir. - Голодному Федоту и репа в охоту.
@@ -823,7 +928,7 @@ Yüksekten korkarım
 - sağol - спасибо
 - haydi - давай
 - fark etmez - не имеет значения
-- dün niçin beni aramadım
+- dün niçin beni aramadım - почему ты не звонил мне вчера
 - daha doğrusu - точнее сказать
 - yürüyerek - пешком
 - aynısı - то же самое
@@ -852,7 +957,7 @@ Yüksekten korkarım
 - borcum ne kadar - сколько я должен
 - sence - по твоему мнению
 - bence - по моему мнению
-- Zaten - итак
+- Zaten - и так
 - Böylece - таким образом
 - Bu yüzden, bu nedenle - и поэтому
 - Cünkü - потому что
@@ -889,6 +994,12 @@ Yüksekten korkarım
 - Efendim - что, простите?
 - yine de - в любом случае
 - Bu kelimenin anlamı ne? - Какое значение этого слова?
+- Hiçbir fikrim yok - я не имею ни малейшего представления
+- öyle söyle - так говорят
+- ben zaten çay içiyorum - я уже пью чай
+- Moralım bozuldu - Мое настроение испортилось
+- Her şey yolunda. - Все в порядке
+- Eminim - я уверен
 
 ### Новое
 ***
@@ -914,4 +1025,65 @@ herhalde - наверное
 Hadi biraz yürüyüş yapalım - Давай немного пройдёмся
 Onun beni aramasını istemiyorum
 
-4 - sayfa 6 - 5 :21 + перевод
+Onun gitmesine izin vereceğim - Я позволю ему уйти
+Doktor hastanın dinlenmesini istiyor - Доктор хочет, чтобы пациент отдыхал
+Ben pencere kenarında oturmayı seviyorum - Я люблю сидеть у окна
+Çok yorgunsun, dinlenmen lazım - Ты очень устал, тебе нужно отдохнуть
+Uyanmam lazım - Мне нужно проснуться
+Kutunun içine bakmadan önce izin al! - Спроси разрешения, прежде чем заглянуть в коробку!
+Pazar dinlenme günüdür - Воскресенье - день отдыха
+Senin uyanmaman lazım - Тебе не нужно просыпаться
+Seni dinlememi mi bekliyorsun? - Ты ждешь, когда я тебя выслушаю?
+Bu kitabı okuman lazım değil - Тебе не нужно читать эту книгу
+Ben onu yapmayı sevmiyorum - Я не люблю это делать
+Ben kızımın Almanya'ya gitmesine izin vereceğim - Я позволю своей дочери уехать в Германию
+
+fırtınaya hazırlıklı olun - будьте готовы к шторму
+Daha çok Türkçe konuşun - говорите больше по-турецки
+Öğretmen bizim daha çok Türkçe konuşmamızı söyledi - Учитель хочет, чтобы мы говорили больше по-турецки
+мне нужно идти - gitmem lazım
+iyi ki sen hayatımdasın - хорошо, что ты в моей жизни
+
+benim yanımda - рядом со мной
+benim yanıma - ко мне
+benim yanımdan - от меня
+
+Herkesin düşüncesi var
+Bazen zor bazen kolay - иногда трудно, иногда легко
+
+
+sayfa 6 - 1 (2)
+      7 - 5
+
+s.6 - 1
+2. Kayıt için şu formu doldurmalısınız.
+3. Çocuklar şiddet içerikli çizgi filmler izlememeli.
+4. Yurda gece saat 24:00’dan önce girmeliyiz.
+5. İş ortamında konuşmalarınıza dikkat etmelisiniz.
+6. Yarına kadar elinizdeki tüm dosyaları okuyup incelemelisiniz.
+7. Buzdolabı bomboş, çıkıp yiyecek bir şeyler almalıydısın.
+8. Bu yemeği mutlaka tatmalısın. Eminim çok beğeneceksin.
+9. Yanımda yeterince para yok. Önce bankaya gidip para çekmeliydim.
+10. Daha sağlıklı bir hayat için hepiniz sigarayı bırakmalısınız.
+11. Son kullanma tarihine bakmadan yiyecek satın almamalısınız.
+12. Çocuklar günde iki saatten fazla televizyon izlememeli.
+13. Ev sahibimiz kiraya zam yaptı. En kısa zamanda yeni bir kiralık ev bulmalıyız.
+14. Alkollüyken trafiğe çıkmamalı.
+15. Üniversitede burslu okuyabilmek için bu sınavdan geçmeliymişim.
+16. Annenle bu şekilde konuşmamalıydın. Bence hemen gidip özür dilemelisin.
+17. Bu faturanın ödemesini dün yapmalıydınız. Şimdi gecikme faizi ödeyeceksiniz.
+18. Müdür aradı. Çok önemli bir toplantı yapacakmış, ikimiz de derhal ofisine gitmeliymişiz.
+
+s.7 - 5
+2. Annenizi üzdünüz. Şimdi düzeltmelisiniz.
+3. Derse geç kaldınız. Derhal son koltuğa oturmalısınız.
+4. Arkadaşınız size yalan söyledi. Yeni bir arkadaş bulmalısınız.
+5. Faturaları ödemeyi unuttunuz. Unutmamak için not almalısınız.
+6. Sevgiliniz sizden ayrılmak istiyor. Şükürler olsun! Parti düzenlemeliyiz.
+7. Çok iyi Türkçe öğrenmek istiyorsunuz. Bunun için daha çabalamalısınız.
+8. Arabanızla yolda kaldınız. Onu uzun zaman önce satmalıydınız.
+9. İşinizden memnun değilsiniz. Sevinmelisiniz! Birçok insan işinize sahip olmak istiyor.
+10. Ödevinizi zamanında bitiremediniz. İkinci yil kalmalısınız.
+11. Tatile gidecekken uçağı kaçırdınız. Sevgilinize gelmeyeceğini söylemek için ona aramalısınız.
+12. Kredi kartınızı kaybettiniz. Kredi kartınızı unutmalısınız. Kredi çekmemeliymışsınız.
+
