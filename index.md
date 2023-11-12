@@ -42,29 +42,29 @@
 
 | Тема                        | афикс                                                     |
 |-----------------------------|-----------------------------------------------------------|
-|                             |                                                           |
-|                             |                                                           |
-| Косвенная речь              | [ma/me + притяжательный изафет](#косвенная-и-прямая-речь) |
+| Малая гармония              | [aıou:a eiöü:e](#малая-гармония)                          |
+| Большая гармония            | [aı:ı ei:i ou:u öü:ü](#большая-гармония)                  |
+| Числительные                | [Числительные](#числительные)                             |
+| Множественное число         | [🥕 + lar ler](#lar-ler)                                  |
+| Косвенная речь              | [mA + притяжательный изафет](#косвенная-и-прямая-речь)    |
 | Действие после действия     | [ıp](#ıp)                                                 |
 | Сделать не сделав что-то    | [madan](#madan)                                           |
-
 
 ## Алфавит
 A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 
 ## Гармония
-- Малая гармония, далее A
-  - a, ı, o, u → a
-  - e, i, ö, ü → e
+### Малая гармония
+- a, ı, o, u → a
+- e, i, ö, ü → e
 
-- Большая гармония, далее I
-  - a, ı → ı
-  - e, i → i
-  - o, u → u
-  - ö, ü → ü
+### Большая гармония
+- a, ı → ı
+- e, i → i
+- o, u → u
+- ö, ü → ü
 
 ## Числительные
-
 - 0 - sıfır
 - 1 - bir
 - 2 - iki
@@ -93,7 +93,7 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 - ikinci - второй
 - üçüncü - третий
 
-## lar ler - множественное число
+## lar ler
 **+ lar ler**
 
 *Örnekler:*
@@ -114,34 +114,31 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 
 ## Время
 ### Сколько времени? - Saat kaç?
+- ровно
+  - 00:00 - Gece on iki
+  - 07:00 - Sabah saat yedi
+  - 12:00 - Gündüz on iki
+  - 19:00 - Akşam saat yedi
 - до половины часа: **прошедший час + ı i u ü + dakika geçiyor**
+  - 19:15 - Akşam saat yediy*i çeyrek geçiyor*
+  - 22:12 - Saat on*u on iki geçiyor*
 - после половины часа: **следующий час + a e + dakika var**
-
-*Örnekler:*
-- 00:00 - Gece on iki
-- 07:00 - Sabah saat yedi
-- 12:00 - Gündüz on iki
-- 18:40 - Saat yediye yirmi var
-- 19:00 - Akşam saat yedi
-- 19:15 - Akşam saat yediyi çeyrek geçiyor
-- 19:45 - Saat sekize çeyrek var
-- 22:12 - Saat onu on iki geçiyor
+  - 18:40 - Saat yedi*ye yirmi var*
+  - 19:45 - Saat sekiz*e çeyrek var*
 
 ### Во сколько? - Saat kaçta?
 - до половины часа: **прошедший час + ı i u ü + dakika geçe**
+  - 07:10 - Saat yedi*yi on geçe*
+  - 07:15 - Saat yedi*yi çeyrek geçe*
+  - 15:10 - Üç*ü on geçe*
+  - 03:10 - Gece üç*ü on geçe*
 - после половины часа: **следующий час + a e + dakika kala**
+  - 06:50 - Saat yedi*ye on kala*
+  - 07:45 - Sabah sekiz*e çeyrek kala*
+  - 07:45 - Sekiz*e çeyrek kala* kahvaltı yapıyorum
+  - 14:30 - Saat iki buçukta eve geliyorum
 
-*Örnekler:*
-- 06:50 - Saat yediye on kala
-- 07:10 - Saat yediyi on geçe
-- 07:15 - Saat yediyi çeyrek geçe
-- 07:45 - Sabah sekize çeyrek kala
-- 07:45 - Sekize çeyrek kala kahvaltı yapıyorum
-- 14:30 - Saat iki buçukta eve geliyorum
-- 15:10 - Üçü on geçe
-- 03:10 - Gece üçü on geçe
-
-*Sözlük:*
+### Sözlük
 - Vakit - время
 - hiçbir zaman - никогда
 - bugüne kada hiç - никогда ранее
@@ -162,6 +159,7 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 - ben şimdilik evdeyim - пока я дома
 - Vakit geldi - время пришло
 - Başlamadan önce - перед началом
+- Öncelikle - прежде всего
 - Son olarak - наконец, ..
 - en kisa bir zaman - как можно скорее
 - en kısa zamanda - как можно скорее
@@ -171,6 +169,7 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 - bundan sonra - после этого
 - döndükten sonra - после возвращения
 - bu saatlerde - в это время
+- ayne zamanda - одновременно
 - az sonra - через некоторое время
 - birazdan - через некоторое время
 - altı gün içinde - в течение шести дней
@@ -184,8 +183,13 @@ A B C Ç D E F G Ğ  H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 - Tam zamanında - вовремя
 - Boş zamanda - в свободное время
 - Arasıra - время от времени
+- zaman zaman - время от времени
 - Sürekli - постоянно
 - Gelecekte - в будущем
+- Çalışmak zonunda - в рабочее время
+- Birbirine vakit ayırmak - уделять время
+- acılen - срочно
+- yıllar önce - много лет назад
 
 ## dır
 **dır dir dur dür**
@@ -307,7 +311,11 @@ Benim gibi - senin kadar - onun gibi - bizim gibi - onlar gibi
 | denemek     | bayılmak       | korkmak      |              |
 | bırakmak    | alışmak        |              |              |
 | sürdürmek   | bulaştırmak    |              |              |
-| söylemek    |                |              |              |
+| söylemek    | danışmak       |              |              |
+|             | çarpmak        |              |              |
+
+- Çocuk başını masaya çarptı.
+- Bu kitabı okuman lazım değil - Тебе не нужно читать эту книгу
 
 ### Направительный падеж
 **(y) + a e**
@@ -349,9 +357,9 @@ Yüksekten korkarım
 
 ## Изафеты
 ### Притяжательный изафет
-**кого/чего? + (n) + ı i u ü + n главное + (s) + ı i u ü**
-- Murat'ın gözlüğü
-- Ali'nin arabası
+**кого/чего? + (n)In главное + (s)I**
+- Murat'ın gözlüğü - очки Мурата
+- Ali'nin arabası - машина Али
 
 |              | ben        | sen        | o            | biz            | siz            | onlar       |
 |--------------|------------|------------|--------------|----------------|----------------|-------------|
@@ -608,38 +616,44 @@ Yüksekten korkarım
 
 #### ma me
 - Сказуемое управляет винительным падежом
-  - Ben tatlı yemeği sevmiyorum → Я не люблю есть сладкое
-  - Ben seni aramayi düşündüm → Я подумал позвонить тебе
-  - Siz cevirmeyi unuttunuz → Вы забыли перевести
-  - Ben dans etmeyi seviyorum → Я люблю танцевать
-  - Benden nefret et**meyi** istemiyorum - Я не хочу, чтобы ты ненавидел меня
+  - Ben tatlı ye**me**ği sevmiyorum → Я не люблю есть сладкое
+  - Ben seni ara**ma**yi düşündüm → Я подумал позвонить тебе
+  - Siz cevir**me**yi unuttunuz → Вы забыли перевести
+  - Ben dans et**me**yi seviyorum → Я люблю танцевать
+  - Benden nefret et**me**yi istemiyorum - Я не хочу, чтобы ты ненавидел меня
 - Сказуемое управляет направительным падежом
-  - Ben spor yapmaya gidiyorum → Я иду заниматься спортом
-  - Beni rahatsız etmeyin → Не беспокойте меня
-  - O Türkiye'de olmaya seviniyor → Он рад быть в Турции
-- То что... (только в начале)
-  - Katyan'**ın** burada yaşama**sı** benim için iyi → То что Катя живет здесь для меня хорошо
-  - Benim çorba yapabilmem bizim için iyi → То, что я умею готовить суп, для нас хорошо
-  - Anton'**un** Türkiye'de yaşama**sı** harika → То, что Антон живет в Турции, очень хорошо
-  - Katya'n**ın** çalışma**sı** onun ailesi ..
-  - Ben sizin beni dinlemenizi istiyorum → Я хочу, чтобы вы меня слушали
-  - Ben onun binimle yaşamasını istiyorum → Я хочу, чтобы он жил со мной
-  - Ben Anton'un okumasını istiyorum → Я хочу, чтобы Антон читал
+  - Ben spor yap**ma**ya gidiyorum → Я иду заниматься спортом
+  - Beni rahatsız et**me**yin → Не беспокойте меня
+  - O Türkiye'de ol**ma**ya seviniyor → Он рад быть в Турции
+- То что... (только в начале) **🥕 + ma me + притяжательный изафет**
+  - Katya'**nın** burada yaşa**ması** benim için iyi → То что Катя живет здесь для меня хорошо
+  - Ben**im** çorba yapabil**mem** bizim için iyi → То, что я умею готовить суп, для нас хорошо
+  - Anton'**un** Türkiye'de yaşa**ması** harika → То, что Антон живет в Турции, очень хорошо
+  - Katya'**nın** çalış**ması** onun ailesi ..
+  - Ben siz**in** beni dinle**meniz**i istiyorum → Я хочу, чтобы вы меня слушали
+  - Ben on**un** binimle yaşama**sı**nı istiyorum → Я хочу, чтобы он жил со мной
+  - Ben Anton'**un** okuma**sı**nı istiyorum → Я хочу, чтобы Антон читал
   - Ailem mühendis olmamı istiyor ama ben müzisyen olmak istiyorum → Моя семья хочет, чтобы я был инженером, но я хочу быть музыкантом
 - la le
   - Ben spor yapmayla meşgulüm → Я занят тем, что занимаюсь спортом
-- если нужно **🥕 + ma/me + притяжательный изафет + gerek/lazim**
+- нужно **🥕 + ma me + притяжательный изафет + gerek/lazim**
   - benim uyumam gerek/lazım → мне нужно спать
   - senin uyuman gerek/lazım → тебе нужно спать
   - onun uyuması gerek/lazım → ей нужно спать
   - bizim uyumamız gerek/lazım → нам нужно спать
   - sizin uyumanız gerek/lazım → вам нужно спать
   - onların uyumaları gerek/lazım → им нужно спать
-  - Sigara içmemeniz gerek çünkü daha hızlı ölürsünüz
-- ??
+  - Sigara içmemeniz gerek çünkü daha hızlı ölürsünüz → Вам не нужно курить, потому что вы умрете быстрее
+  - Onun kredi alması gerek çünkü o ev almak istiyor
+  - Sigara almaya gerek yok. → Не нужно покупать сигареты.
+  - Sigara almamak gerek. → Нельзя покупать сигареты.
+  - Çikolata yemeye gerek yok. → Не нужно есть шоколад.
+  - Çikolata yememek gerek. → Нельзя есть шоколад.
+- ?
   - Senin bu eve gelmen yasak → Тебе запрещено приходить в этот дом
 
-#### ış iş uş üş
+#### ış
+**🥕 + Iş**
 - То как...
   - Anton’**un** dinlen**iş**i beni rahatsız etmiyor → То, как Антон отдыхает, мне не мешает
   - Katya’n**ın** Türkçe konuşu**şu** herkesi kızdırıyor → То, как Катя говорит по-турецки, раздражает всех
@@ -647,7 +661,6 @@ Yüksekten korkarım
   - anlayış, çıkış, giriş, kalkış, iniş, atlayış, düşüş, bağırış, sürüş
 
 ### Косвенная и прямая речь
-
 | Прямая речь                     | Косвенная речь                                           |
 |---------------------------------|----------------------------------------------------------|
 |                                 | **🥕 + ma/me + притяжательный изафет**                   |
@@ -695,20 +708,34 @@ Yüksekten korkarım
     - Para ödeme**meden*** pasaport olamam. - Я не могу получить паспорт не заплатив деньги.
     - Yağmur dur**madan** dışarı çıkmayacağım. - Я не выйду на улицу пока не перестанет дождь.
 
-### malı
+### malı - должен
 - **🥕 + mAlI + л.аф** дожен, должны вообще.
-  - Ben çalış**malı**yım hayat çünkü hayat çok zor - Я должен работать, потому что жизнь очень трудна
+  - Ben çalış**malı**yım çünkü hayat çok zor - Я должен работать, потому что жизнь очень трудна
   - Sen burada çalış**malı** mısın? - Ты должен здесь работать?
   - Hayır, o sana yardım etme**meli** - Нет, он не должен тебе помогать
 - **🥕 + mAlI + ydI + л.аф** дожен был, были должны.
   - Allah'ım! Ben telefon faturasını öde**meliydim** - Боже мой! Я должен был оплатить счет за телефон
-  - Anton bugüm Ekin'i ara**malı** mı**ydı**? - Антон должен был позвонить Экину сегодня?
+  - Anton bugün Ekin'i ara**malı** mı**ydı**? - Антон должен был позвонить Экину сегодня?
   - Natalya ve Leyla çay bardakları alma**malı** mı**ydı**? - Наталя и Лейла должны были взять чашки для чая?
   - Siz bunlara inanma**malıydı**nız - Вы не должны были им верить
   - Sen dün ne yap**malıydı**n? - Что ты должен был сделать вчера?
 - **🥕 + mAlI + ymIş + л.аф** говорят должен был.
   - Biz şimdi İstanbul'da 10 gün kal**malımış**ız - Мы должны были остаться в Стамбуле на 10 дней
   - Anton bugün saat beşte toplantı bağlan**malıydı** - Антон должен был присоединиться к собранию в пять часов сегодня
+
+### zorunda - быть вынужденным
+- **🥕 + mAk zorunda + л.аф** быть вынужденным что-то сделать прямо сейчас
+  - Ben para çekmek zorundayım - Я вынужден снять деньги
+  - Sen cevap vermek zorundasın - Ты вынужден ответить
+  - O seyahati/yolculuğu iptal etmek zorunda - Он вынужден отменить поездку
+  - Biz bir dairede yaşamak zorundayız - Мы вынуждены жить в одной комнате
+  - Siz haftada iki kere burada imzalamak zorundasınız - Вы вынуждены подписывать здесь два раза в неделю
+  - Onlar bu evrağı göstermek zorunda değiller çünkü onlar artıl beş yıldır Türkiyede yaşıyorlar. - Они не обязаны показывать этот документ, потому что они живут в Турции уже пять лет.
+- **🥕 + mAk zorunda kalmak + л.аф** быть вынужденным что-то сделать не сейчвс
+  - Ben işten sonra yarım saat beklemek zorunda kalıyorum - Я вынужден ждать полчаса после работы
+  - Yarın toplantıda sonra patronu aramak zorunda kalacağım - Завтра после собрания я вынужден буду позвонить начальнику
+  - Ben izinden sonra toplantı yapmak zorunda kalacağım - Я вынужден буду провести собрание после отпуска
+  - Ben onunla gitmek zorunda kaldım - Я вынужден был пойти с ним
 
 ### Bağlaçlar
 - **ve** - и
@@ -727,7 +754,7 @@ Yüksekten korkarım
   - Ben bir de sen gideceğiz
 
 ## Sözlük
-### Существительные
+### İsimler - существительные
 - yüzük - кольцо
 - kafa - голова
 - başımın ağrısı - головная боль
@@ -757,10 +784,22 @@ Yüksekten korkarım
 - param - деньги
 - harçlık - карманные деньги
 - ekinokta - двоеточие
+- anlam - смысл
+- yöntem - метод, рецепт
+- fedakarlık - самоотверженность
+- gıda - продукты питания
+- antrenman - тренировка
+- çaba - усилие
+- iletişim - общение
+- sorumuluk - ответственность
+- başlık - заголовок
+- tedavi - лечение
+- gecikme faizi - пеня за просрочку
+- anlayış - понимание
 
-### Глаголы - fiiller
+### Fiiller - глаголы
 - başlamak - начинать
-- dene - попробуй
+- denemek - пробовать
 - sanırmak - предполагать
 - konuşmak - говорить
 - yalan söylemek - лгать
@@ -810,7 +849,6 @@ Yüksekten korkarım
 - bayılmak - обожать
 - başarmak - достигать
 - denemek - пробовать
-- bırakmak - оставлять
 - sürdürmek - продолжать
 - alışmak - привыкать
 - ısrar etmek - настаивать
@@ -828,8 +866,29 @@ Yüksekten korkarım
 - düzenlemek - организовывать
 - çabalamak - стараться
 - satmak - продавать
+- özen göstermek - заботиться
+- tüketmek - потреблять
+- keşfetmek - открывать, узнавать, угадывать
+- kolaylaştırmak - облегчать
+- edinmek - получать
+- geçirmek - проводить
+- tamamlamak - завершать
+- çarpmak - ударять
+- yanıtlamak - отвечать
+- davranmak - вести себя
+- kurmek - создавать
+- yenmek - побеждать
+- yaratmak - создавать
+- hissetmek - чувствовать
+- takılmak - прикалываться
+- kabul etmek - принимать
+- dönmek - возвращаться
+- vazgeçmek - отказываться
+- iade etmek - возвращать
+- emek harcamak - прилагать усилия
+- зарабатывать деньги - para kazanmak
 
-### Прилагательные - sıfat
+### Sıfatlar - прилагательные
 - özel - особенный
 - rahat - комфортный
 - yaramaz - непослушный
@@ -846,7 +905,7 @@ Yüksekten korkarım
 - tuhaf - странный
 - buzdolabı bomboş - холодильник пустой
 
-### Приветствие
+### Фразы
 - Merhaba - привет
 - Selam - привет
 - Seni görmek hoş - рад тебя видеть
@@ -899,6 +958,11 @@ Yüksekten korkarım
 - Haksızlık bu - это несправедливо
 - Sen hangi arabadan bahsediyorsun? - О какой машине ты говоришь?
 - Şükürler olsun - Слава Богу, Аллилуя
+- Geçmiş olsun - выздоравливай
+- çok şükür - слава Богу
+- Değerle arkadaşlar - дорогие друзья
+- Özür dilerim - извините
+- Efendim - что, простите?
 
 ### Пословицы
 - Aça arpa ekmeği etten lezzetli gelir. - Голодному Федоту и репа в охоту.
@@ -923,7 +987,6 @@ Yüksekten korkarım
 - Ancak - только, однако
 - acaba - интересно
 - maalesef - к сожалению
-- özür dilerim - извините
 - Kutlarım - поздравляю
 - sağol - спасибо
 - haydi - давай
@@ -991,7 +1054,6 @@ Yüksekten korkarım
 - yüzde yüz - на 100%
 - Sen neden böyle düşündüm - почему ты так думаешь?
 - Çok heyecanlıyım - я очень взволнован
-- Efendim - что, простите?
 - yine de - в любом случае
 - Bu kelimenin anlamı ne? - Какое значение этого слова?
 - Hiçbir fikrim yok - я не имею ни малейшего представления
@@ -1000,6 +1062,13 @@ Yüksekten korkarım
 - Moralım bozuldu - Мое настроение испортилось
 - Her şey yolunda. - Все в порядке
 - Eminim - я уверен
+- Şuphesiz - без сомнения
+- bütün bunlar - все это
+- herşeyden fazla - больше всего
+- sevgi dololu - полный любви
+- korkarım ki ben bir işkoliğim - боюсь что я трудоголик
+- anladım kadarıyla - насколько я понял
+- herkes şeşirde - все в удивились
 
 ### Новое
 ***
@@ -1087,3 +1156,242 @@ s.7 - 5
 11. Tatile gidecekken uçağı kaçırdınız. Sevgilinize gelmeyeceğini söylemek için ona aramalısınız.
 12. Kredi kartınızı kaybettiniz. Kredi kartınızı unutmalısınız. Kredi çekmemeliymışsınız.
 
+## 2023.10.23
+солнечно - güneşli
+завтра иду купаться - yarın yüzmeye gidiyorum
+четыре градуса - dört derece
+hala - все еще
+senin orada - у тебя там
+benim burada - у меня здесь
+işveren - работодатель
+mesai saatleri - рабочие часы
+çalışma saatleri - рабочие часы
+ты много устаёшь? - çok yoruluyor musun?
+совсем не устаю - hiç yorulmuyorum
+iş yoğunluğu - рабочая нагрузка
+iş çokluğu - рабочая нагрузка
+ben uyumamalıyım - я не должен спать
+maaş - iş karşlığı alınan para aylık
+Her iki haftada maaş alıyorum - Я получаю зарплату каждые две недели
+eleman - personel
+senin iş yerinde kaç eleman var? - сколько сотрудников у тебя на работе?
+terfe - iş yerinde yüklselme - повышение на работе
+tayın - 
+ara - çalışmaya ara vermek - перерыв на работе
+izin - iş yeri tarafından verilen tatil - отпуск
+Sen en son ne zaman izne çıktın? - Когда ты последний раз был в отпуске?
+eğersen - если хочешь
+iki günlük - на два дня
+üç haftalık - на три недели
+8:30 - 17:30 - sekiz buçuk - on yedi buçuk
+başarılı çalışmalırı  sonucunda
+şubemizda eleman ihtiyacı var
+olmak istiyorsan öncelikle
+и то и то - hem bu hem de bu
+seyahat etmek - путешествовать
+свободное время - boş zaman
+Benim için önemli 
+результаты - sonuçlar
+все услышат - herkes duyacak
+bakıyorsa - если смотрит
+искать ошибку - hata aramak
+aklıma o geldi - я вспомнил об этом
+gizle buzlanma nedeniyle - из-за обледенения
+önümüzdeki hafta patronumdan 
+увольнение - işten çıkarma
+orası neresi - где это?
+холодильник - buzdolabı
+bu da kalem - это тоже ручка
+
+s.7 - 3
+Bu nedenle yoğun stres altında yaşıyorsanız sağlığınıza özen göstermelisiniz.
+Sağlıklı olabilmek için neler yapmalıyız? Neler yapmamalıyız?
+Öncelikle uyku düzenimize çok dikkat etmeliyiz.
+Düzenli yemek yemeliyiz ve bol bol meyve sebze tüketmeliyiz.
+Peki spor yapmalı mıyız?
+Şüphesiz bütün bunlar spor olmadan anlamsızdır ama önce bir doktora danışmalıyız.
+Zararlı alışkanlıklardan da vazgeçmeliyiz. Sigara içmemeliyiz veya hemen bırakmalıyız.
+Hayattan zevk almaya çalışmalıyız.
+Sağlığımızın değerini onu kaybetmeden bilmeliyiz.
+Stresin vücudumuza olumsuz etkilerini engellemek için elbette tüm bunlar gerekli.
+Ancak daha kalıcı bir çözüm için sorunların nedeni olan stresi azaltmaya çalışmalıyız.
+Stres kaynaklarından uzaklaşmak her zaman mümkün olmuyor ama en azından stresin etkilerini azaltmalıyız.
+Kendimizi rahatlatmak için yöntemler keşfetmeliyiz ve bu şekilde hayatımızı kolaylaştırmalıyız.
+Hayatımızın değerini önemli sorunlarla karşılaşmadan bilmeliyiz ve buna göre yaşamalıyız.
+
+s.7 - 4
+Ben Türkiye’de yaşıyorum ama Bulgaristanlıyım.
+Ülkemden uzak yaşamak kolay değil ama üniver-
+siteyi burada okumak istiyorum. Daha sonra bura-
+da bir iş bile bulabilirim. Bu nedenle öncelikle
+Türkçe öğrenmeliyim. Bir yıl sonra mutlaka
+TÖMER’den diplomamı almalıyım. Ancak bu ye-
+terli değil. Ders dışında da Türklerle konuşmalıyım.
+Türk arkadaşlar edinmeliyim ve onlarla sık sık
+zaman geçirmeliyim. Türkçe oyunlara, film-
+lere gitmeliyim. Yani Türkçeyi yerinde ve yaşa-
+yarak öğrenmeliyim. Üniversiteyi başarıyla
+tamamlamalıyım ve kendime uygun, iyi bir iş bulmalıyım.
+
+## 2023.10.26
+huzur - спокойствие
+olur öyle - так бывает
+Biliyor musunuz, size sadece iyi arkadaşlar lazım. - Знаете ли вы, вам нужны только хорошие друзья.
+sessiz - тихий
+Antona utanıyor musun? - Ты стесняешься Антона?
+sade ve çekingen - скромный и застенчивый
+Sizin paranız var arkadaşlarınız yok.
+poğaça - пирожок
+acıktım - я проголодался
+para kazanmak - зарабатывать деньги
+istisna - исключение
+Bize bunları anlatmanıza gerek yok. - Нам не нужно, чтобы вы рассказывали нам об этом.
+şimdilik bu kadar - пока что на этом всё
+
+🇹🇷 Yüzüncü yılımız kutlu olsun 🇹🇷 -
+s8 - 6
+2. Alışveriş yapmak için bankadan para çekmek lazım.
+3. Dil öğrenmek için çok çalışmak gerekiyor.
+4. Tiyatro gitmek için önce bilet almek gerek
+5. Mutlu evlilik için bir fedakarlık yapmak gerek.
+
+s9 - 9
+1. Sınavlardan geçebilmek için ders çalışmaları gerekir.
+2. Bu sorunu çözebilmem için arkadaşlardan yardım istemelisiniz. Çünkü 2 gündür hiçbir çözüm bulamadım.
+3. Cüzdanımı evde unutmuşum. Eve dönüp onu almalıyım.
+4. Çocuk başını masaya çarptı. Bir an önce onu hastaneye götürmeliyiz.
+5. Hasan Bey, en kısa zamanda sigarayı bırakmalısınız.
+6. Siz bu projeyi iki hafta içerisinde bitirmesi gerekmiş.
+7. Akşama misafirler gelecek. Evde de hiçbir şey yok. Ben markete gidip alışveriş yapmam gerekiyor.
+8. Kaydınızı yapabilmem için kimliğinizin yanınızda olpması gerekiyor.
+9. Dün akşam evde oturacaktım ama arkadaşım hastalanmış hemen çıkıp ona gitmem gerekti.
+10. Pınar evde yokmuş. Az önce annesiyle konuştum, acil bir telefon gelmiş ve hemen ofise gitmem gerekti. -
+
+s9 - 10
+1. Türkçemi geliştirmek için türkçe kitaplar okumam gerek.
+2. Bir iş görüşmesinde aslan kadar davranmam gerek.
+3. Kıyafet seçerken düğmelere özel dikkat etmem lazım.
+4. Gıda alışverişinde son kullanma tarihine dikkat etmem lazım.
+5. Kendime en uygun mesleği için önce farklı aktiviteler denemem lazım.
+6. Bence boş zamanlarını sahip olmaya gerek yok.
+
+## 2023.10.31
+
+ведьма - cadı
+resepsiyon - приемная
+Türk konsolosluğu - турецкое консульство
+fakat - но
+какая разница между одним и другим? - arasındaki fark nedir?
+cünkü hiç kimse beni davet etmedi - потому что никто меня не пригласил
+ben gelirdim - я бы пришел
+ben gelmezdim - я бы не пришел
+Seninle ilgili - относительно тебя, связано с тобой
+может быть - belki
+belki doğru - может быть правильно
+Bu sorun sizinle ilgili değil - Эта проблема не связана с вами
+vaktımız yok - у нас нет времени
+hangi zamanda ehliyet aldın? - когда получил права?
+hatırlamıyorum - я не помню
+gelişimleri için oyuncaklarla oynaması gerek
+cıkacağız - мы выйдем
+kişilik - личность
+memnuniyetle - с удовольствием
+ev işleri - домашние дела
+kumru
+arkadaşları orıyorum
+senin telefonun çalıyor - твой телефон звонит
+Kumru
+ofis dışı - вне офиса
+katılıyorum - я согласен
+rıca etmek - просить
+мне показалось - bana öyle geldi
+kuru temizleme - химчистка
+kısa sürede - в ближайшее время
+siz bana katılıyor musunuz? - вы согласны со мной?
+umursamamak - не обращать внимания
+kaşımak - чесать
+
+## 2023.11.06
+отпуск - izin
+dedikodu yaptık - мы сплетничали
+hala Türkiye'de - все еще в Турции
+sağ salim - благополучно
+önemli olan - самое главное
+düşünebiliyor musuunuz? - представляете?
+düşünebiliyor musuunuz ben bugün eşime sorundum. - представляете, я сегодня спросил у жены
+поездка - seyahat
+dört gözle beklemek - с нетерпением ждать
+ben ağaç oldum - когда мы ждём очень долго и устали ждать
+hiçbir zaman geç değil - никогда не поздно
+kafamız karışabilir - мы можем запутаться
+katılmak - присоединяться
+istanbul muhaf ezleri !!!!
+tandem !!!!
+pamuk - мои странные мысли, меня зовут красный !!!
+
+Ödevler
+çalışma kitabı s.10 - 12, 13
+
+İş yerinde başarı olmak için öncellikle patronuzun simpatesini kazanmak zorundasınız. - Чтобы иметь успех на работе, вы должны сначала завоевать симпатию своего начальника.
+Bunun için işe patrondan erken gelmeli. - Для этого вы должны приходить на работу раньше начальника.
+İşten ondam daha geçek malısınız. - Вы должны уходить с работы позже начальника.
+
+## 2023.11.09
+faturaları ödemek zorundayım - я должен оплатить счета
+yecek bir şeyler almak zorundayım - я должен купить что-нибудь поесть
+ben dün burada arabamı bırakmak zorunda kaldım - я должен был оставить машину здесь вчера
+ben hen çalışırım hem çocuğumu buyuturum - я и работаю и воспитываю своего ребенка
+mutlaka son baskıya yetiştirmem lazım - я должен успеть к последнему сроку
+больше ничего не могу делать - daha fazla bir şey yapamam
+benim düşüncem böyle - моё мнение такое
+ödünç aldığım kitabı bugün iade etmek zorundayım - я должен вернуть книгу, которую я взял взаймы, сегодня
+taksitini ödemek - выплачивать в рассрочку
+benim yardım istemem lazım - мне нужна помощь
+Sen bana yüz lira borçlusun - ты должен мне сто лир
+ben oraya baktım ama görmedim - я смотрел туда, но не видел
+
+çalışma kitabı s 11 - 14, 15
+
+1. Arkadaşlarınla iyi ilişkiler kurabilmen için onlara daha anlayışlı davranman lazım.
+2. Küçük çocuklar korku ve şiddet içerikli programlar seyretmemek gerek.
+3. Türkçeyi daha iyi öğrenebilmeniz için Türkçe kitaplar okumanız lazım.
+4. Güneşin zararlı ışınlarından etkilenmemen için koruyucu kremler kullanmak gerekli.
+5. Rakip takımı yenebilmemiz için daha çok antrenman yapmak zorundayız.
+6. Benim hemen eve gidip misafirlere yemek hazırlamam lazım.
+7. Arabamın yolda benzini bitti ve ben eve yürümek zorunda kaldım.
+8. Senin işin rahat. Benim gibi haftasonları çalışmak zorunda değilsin.
+9. Salondaki çiçekleri sulamana gerek yok, ben suladım.
+
+- sağlanmalıdır - должно быть обеспечено
+- oynayabilmeli - должен уметь играть
+- yapması - делать
+- alabilmeli - должен уметь брать
+- yaratmak gereklidir - необходимо создать
+göstermelidir - должен показывать
+
+huzurlu bir ortam - спокойная обстановка
+böyle - такой
+yönetiçiler - руководители
+arasındaki - между
+arasındaki iletişimin iyi olması
+kurumda - в учреждении
+sürekli aktif rol alabilmeli
+geliştirmek - развивать
+sağlanmalı - должно быть обеспечено
+düzenlemeler - регулирование
+ortam - обстановка
+verimli - продуктивный
+kurumsal çabalar ile mümkündür - возможно благодаря корпоративным усилиям
+
+huzurlu bir ortam yaratmak gerek - нужно создать спокойную обстановку
+korunmak gerekir - нужно защищать
+hatırlayamadın - ты не помнишь
+çaba - усилие
+strese karşı - против стресса
+yönetıçı - çalışan işbirliği gerekir
+başarılı - успешный
+çalışanların başarılı olması iş yerinin başarısını da etkiler - успех сотрудников также влияет на успех рабочего места
+İş yerinde huzurlu bir ortam yaratmak kurumsal çabalar ile mümkündür. - Создать спокойную обстановку на рабочем месте возможно благодаря корпоративным усилиям.
+
+İş yerinde stresin azalmasıyla artacak bireysel başarı, iş yerinin genel başarısını yükseklere taşıyacaktır - Снижение стресса на рабочем месте повысит индивидуальный успех, что приведет к общему успеху рабочего места.
+Bu nedenle iş yerlerinde yöneticilerle çalışanlar arasında huzurlu, olumlu, yaratıcı, yetenekleri destekleyici ortamlar oluşturulmalıdır. - Поэтому на рабочих местах должны быть созданы спокойные, позитивные, творческие, способствующие развитию талантов среды между руководителями и сотрудниками.
