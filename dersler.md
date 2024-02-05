@@ -1021,3 +1021,16 @@ s34 - 12, 13, 14
 10. Bizi **ne zaman görsaydı** kardeş ­sanıyor.
 11. Tarkan’ın­ son şarkısı ­çok ­güzel.­ **Ne zaman radyoyu** dinleseydim o­çalıyor.
 12. Bendeki şansa ­bak! **Kiminle okuldan ­kaçsaydim** babama ­yakalanıyorum.
+
+### 2024-02-05
+
+Ulaçlar - деепричастия
+
+достать деньги из кошелька - cüzdanından parayı çıkarmak
+
+Melis cüzdandan parayı cıkarıp ve bankamatiğe yatırdı.
+
+ezgi - мелодия
+aşı olmak - прививаться
+
+Ben kahva
