@@ -692,43 +692,332 @@ s24 - 1
 7. Sabahtan beri/tır hiç bir şey yemedim, kurt gibi açım.
 
 ### 2024-01-04
-s29 - 9
 s29 - 10 - запись
-
-1. Kış geldi. Yaşlaların romatizma ağrıları arttı. - Зима пришла. Ревматические боли у стариков усилились.
-Kiş geldiğin**den beri** yaşlaların romatizma ağrıları arttı. - С тех пор, как пришла зима, ревматические боли у стариков усилились.
-
-2. Okullar tatil oldu. Çocuklar sokaktan eve girmiyor. - Школы закрылись. Дети не заходят домой с улицы.
-Okullar tatil ol**ali** çocuklar sokaktan eve girmiyor. - С тех пор, как закрылись школы, дети не заходят домой с улицы.
-
-3. Biz eşimle 1999’da evlendik. Hala evliyiz. - Мы с женой поженились в 1999 году. Мы все еще женаты.
-Biz eşimle 1999'da evlen**eli** hala evliyiz. - С тех пор, как мы с женой поженились в 1999 году, мы все еще женаты.
-
-4. Esra’yla ben iki yıl önce aynı eve taşındık . Hala aynı evde oturuyoruz. - Мы с Эсрой переехали в один дом два года назад. Мы все еще живем в одном доме.
-Esra'yla iki yıl önce aynı eve taşın**ali** hala aynı evde oturuyoruz. - С тех пор, как мы с Эсрой переехали в один дом два года назад, мы все еще живем в одном доме.
-
-5. Anna Türkçe öğrendi. Artık Türkiye’de daha rahat. - Анна выучила турецкий язык. Теперь в Турции ей легче.
-Anna Türkçe öğren**eli** Türkiye’de daha rahat. - С тех пор, как Анна выучила турецкий язык, ей легче в Турции.
-
-6. Ben seni 5 yıl önce gördüm. Epeyce büyümüşsün. - Я видел тебя 5 лет назад. Ты вырос.
-Ben seni 5 yıl önce gör**eli** büyümüşsün. - С тех пор, как я видел тебя 5 лет назад, ты вырос.
-
-7. Annem gençliğinde sigara içmeye başlamış. Hala içiyor. - Моя мама начала курить в молодости. Она все еще курит.
-Annem gençliğinde sigara içmeye **başlamış başlalı** hala içiyor. - С тех пор, как моя мама начала курить в молодости, она все еще курит.
-
-8. TÖMER’deki arkadaşlarımı en son sınavda gördüm. Bir daha görmedim. - Я видел своих друзей из ТОМЕРа в последний раз на экзамене. Больше не видел.
-TÖMER'deki arkadaşlarımı en son sınavda **gördüm göreli** bir daha görmedim. - С тех пор, как я видел своих друзей из ТОМЕРа в последний раз на экзамене, больше не видел.
-
-9. Beş yıl önce öğretmen oldum. Hala öğretmenlik yapıyorum. - Пять лет назад я стал учителем. Я все еще работаю учителем.
-Beş yıl önce öğretmen ol**duğumdan beri** öğretmenlik yapıyorum. - С тех пор, как я стал учителем пять лет назад, я все еще работаю учителем.
 
 ### 2024-01-09
 - Soçya gittin mi? - Ты был в Сочи?
 aktarma yapmak - делать пересадку
 uzun aktarmalar - долгие пересадки
+işe yarıyor - помогает
+özen - забота
+uyarmak - предупреждать
 
 yaptınız mı? - вы делали?
 Madem sen seviyorsun, neden yapmadın? - Если ты любишь, почему ты не сделал?
 
-s26 4, 5
-s27 
+s26 5
+s27 ?
+
+### 2024-01-11
+- İçiyor musun?
+- HAYIR
+- Sigara içiyor musun?
+- HAYIR
+- Nasıl rahatlarsın?
+- Zahmet etmiyorum bile
+
+herhangi bir şey - что-нибудь
+birşey olmaz - ничего страшного
+
+uzaktan çalışma başladı
+с тех пор как - 
+
+после того как - sonra
+расслабленный - rahat
+
+denemek - пытаться
+merak ediyorum - я интересуюсь
+burudaymış - он был здесь
+я не понимаю - anlamıyorum
+kabul etmek - принимать
+uzaylı - инопланетянин
+лунатик - aydaki
+девяностые - doksanlı yıllar
+
+15
+yeniden yazalım
+eski günler
+mehmet çalışma
+bilmemki
+sanırım temizlem edim
+nerede
+ne kadar soredir
+güzel bir film seretmedik
+sarşın kız - блондинка
+acaba - неужели
+ne kadar komiyiz - какие мы смешные
+kıyafet balosu - костюмированый бал
+paça - голень
+14 sene önce - 14 лет назад
+у меня были длинные волосы - saçlarım uzundu
+свободный - boş
+duygulandım - я взволновался
+kahranamaz - невероятный
+senin adına çok sevendim - я очень рад за тебя
+
+28 - 7, 8
+
+### 2024-01-15
+birer - по одному
+ikişer - по два
+dörder - по четыре
+beşer - по пять
+altışar - по шесть
+dokuzer - по девять
+
+emin misin - ты уверен?
+rapor yarına kadar gerekmiyorsa yardım edeyim sana
+
+30 - 1, 2
+31 - 4
+
+30 - 1
+
+  sıkıldıysan - если тебе скучно
+­  okuduysanız - если вы прочитали
+  ­seviyorsan­ -  если ты любишь
+  bitirdiyseniz - если вы закончили
+  çıkacaksanız - если вы выйдете
+  ­gerekiyorsa­ - если нужно
+  bitmişse - если закончился
+geçemezsem - если не смогу пройти
+  dinlemezsen­ - если не послушаешь
+  inanmıyorsan - если не веришь
+  uyuyamıyorsan­ - если не можешь спать
+­  değiştirirseniz - если вы поменяете
+
+1. Eğer sıkıldıysan dışarı ­çı­kıp ­bi­raz ­ge­ze­lim. - Если тебе скучно, давай выйдем и погуляем.
+2. Ço­cuk­lar, ­ödev­le­ri­ni­zi­ bitir**diyseniz** ye­meğe ­ge­lin­ ar­tık! - Дети, если вы закончили свою домашнюю работу, приходите кушать!
+3. Ga­ze­te­yi­ ­oku**duysanız** ala­bi­lir ­mi­yim? - Если вы прочитали газету, могу я ее взять?
+4. Se­nin­ he­men ­çık­man çık**acaksanız** be­ni ­bek­le­me, ­ben bi­raz ­da­ha ­ça­lışa­cağım.­ - Если ты собираешься выйти сейчас, не жди меня, я еще немного поработаю.
+5. Bu­ sı­nav­dan geçe**mezsem** ya­na­rım, ­ba­bam ­o ­bil­gi­sa­ya­rı ­ba­na ­as­la ­al­maz! - Если я не смогу пройти этот экзамен, я сгорю, мой отец никогда мне не купит компьютер!
+6. Eğer­ be­ni ­sevi**yorsan­** o­ kol­ye­yi ­ba­na ­alır­sın!
+7. Su­na ­Ha­nım, ­eğer ­ge­le­cek­ haf­ta ­iz­ne ­gere**kiyorsa­** eli­niz­de­ki ­iş­le­ri ­cu­ma­ya ­ka­dar ­bi­ti­rin ­lüt­fen. - Суна Ханым, если вам нужен отпуск на следующей неделе, закончите работу, которую вы делаете, до пятницы, пожалуйста.
+8. Şa­yet ­ka­ra­rı­nı­zı ­değiştir**irseniz** be­ni ­ara­yın, ­si­zin­le ­tek­rar gö­rüşe­lim. - Если вы измените свое решение, позвоните мне, давайте встретимся снова.
+9. Ba­na­ inanmı**yorsan** git,­ ba­ba­ma­ sor. Yeni­ bir­ araba alıyoruz
+10. Çık­ma­dan­ Ayşe’nin­ ya­nı­na­ da­ uğ­ra­ya­lım,­ iş­le­ri bit**mişse** o ­da ­bi­zim­le ­gel­sin.
+11. Bü­yük­le­ri­nin­ sö­zü­nü dinleme**zsen­** böy­le­ olur ­iş­te. Sana kaç­ defa­ “Sınava­ çok ­çalışmalısın.”­ demiştik. - Если ты не послушаешь старших, вот что получится. Мы сколько раз говорили тебе: «Ты должен много учиться».
+12. Ge­ce­le­ri­ uyuyamı**yorsan­** yat­ma­dan­ ön­ce­ bir­ fin­can­ pa­pat­ya­ su­yu ­iç, ­o ­za­man ­mışıl ­mışıl ­uyur­sun.
+
+### 2024-01-18
+sağ salim - благополучно
+ingilizce dişında - кроме английского
+sıkılırsan - если тебе скучно
+ben seni ne zaman arasam sen hep iştesin - когда я тебя ни звоню, ты всегда на работе
+seve seve - с удовольствием
+yanılmak - ошибаться
+şaşırmak - удивляться
+çok seyrek - очень редко
+aramalı - должен звонить
+кому ещё - kim daha
+родителям - anne babaya
+haklı - прав
+insana bağalı - зависит от человека
+tam tersi - наоборот
+ne yaparsan 
+нужен ремонт - tadilat gerek
+если у меня будет отпуск - eğer izin alırsam
+ameliyat olmanız gerekebilir - вам может понадобиться операция
+senin izin alman gerekiyor - тебе нужно взять отпуск
+
+s 32 - 7, 8, 9
+
+### 2024-01-22
+- кататься на коньках - buz pateni yapmak
+- я в субботу катался на коньках - ben cumartesi buz pateni yaptım
+- hatirlimyorum - я не помню
+
+
+
+s 33 - 11
+s 30 - 1, 2
+s 32 - 10
+
+### 2024-01-25
+я подздно пришёл - geç kaldım
+bir bakıma - с одной стороны
+fakat - однако
+bir iş kurabilir - может открыть бизнес
+bunların yanında da öğrenmeye açık olmak - быть открытым к обучению
+bir türlü - никак
+birden fazla gazete okuyarak gündemi takip edin - читайте несколько газет, чтобы следить за новостями
+sadece dünyadaki politik olayları değil - не только политические события в мире
+kültür ve sanatla ilgileri gelişmeleri de takip edin - следите за развитием культуры и искусства
+paranız yeterliyse mutlaka seyahat edin. yaşantıları ve hatta yemekleri 
+öğrenmenin tanımı - определение обучения
+ömür boyu öğrenme için öneriler - рекомендации по обучению на всю жизнь
+
+Neden yemek yeriz?
+- Hayat - жизнь
+- Bazı şeyler - некоторые вещи
+- Örneğin - например
+- Nefes almak - дышать
+- Dan/den başka - кроме чего…
+- Yetkili - уполномоченный
+- İkram etmek - угощать
+- Zevk almak - получать удовольствие
+- Mutluluk vermek - доставлять счастье
+- Yemeğin tadı - вкус еды
+- Saray - дворец
+- İcat etmek - изобретать
+- Zenginleştirmek - обогащать
+- İbadet - богослужение
+- Oruç tutmak - держать уразу
+- Museviler - Евреи
+- Böylece - таким образом
+- Bir nevi - своего рода
+- Mesela - например
+- zengindi - он был богат
+- aşçılar - повара
+- fakir - бедный
+- din - религия
+- böylece - таким образом
+- çeşit - разновидность
+- Bekletmek - заставить ждать
+- Sıkışık trafik - пробки
+- Tahmin etmek - догадаться; представлять себе
+- Göz atmak - пробегать (быстро просматривать)
+- Açıkçası - честно говоря
+- Uzun süreden beri - давно
+- Üşenmek - лень делать что-нибудь
+- Gün boyu - в течение дня
+- Tükenmek - заканчиваться
+- Prensip - принцип
+- Konsantre olmak - сосредотачиваться
+- Bundan sonra - после этого, отныне
+- Tavsiye etmek - рекомендовать
+- Ne yazık ki - к сожалению
+- Kim bilir - кто бы мог знать
+
+1. Yaşamak için nefes alırız, uyuruz, yemek yeriz ve içeriz.
+2. Firma yetkilileri bazen restoranda hem yemek yerler hem de iş konuşurlar.
+3. Bazı insanlar yavaş yavaş yemek yerler çünkü yemeğin tadını tam almak isterler.
+4. Bazı insanlar ibadet için diyet yapıyorlar.
+5. Misafirlirimize sadece kahve ikram ederiz. (Yanlış)
+6. Yemeğin sosyal fonksiyonu da var. (Doğru)
+7. Bazı ülkelerde çok güzel yemekler var. (Doğru)
+8. Bazı dinlerde insanlar kilo vermek için oruç tutuyor. (Yanlış)
+9. Saraydaki aşçıların bazısı başka ülkelerden geldi. (Doğru)
+
+inanamazsın - ты не поверишь
+Ben de biraz geç kaldım zaten - я тоже немного опоздал
+bir dosya daha getirdiler - они принесли ещё один файл
+hemen ona şöyle bir göz attım ve çıktım - я быстро взглянул на него и вышел
+anlat bakalım, haberler sende - расскажи, новости у тебя
+neler yaptın en son görüşmemizden sonra? - что ты делал после нашей последней встречи?
+çalışma sabeplerinden biri yemek yapmamak
+яишница - omlet
+банан - muz
+часто - sık sık
+яблочный пирог - elmalı turta
+Biz bir zaman buluşuruz, ben zaman size bu tatlıyı yaparım.
+yemeyi biterdim - я закончил есть
+
+### 2024-01-29
+Если они были дома то почему свет был выключен? 
+Взять кошку с собой - kedi almak
+yanıma almak - взять с собой
+ударил его - ona vurdu
+не обращайте внимания - aldırma
+
+
+не обращайте внимания - aldırma
+
+Beklettim mi? - Я заставил тебя ждать?
+Açıkçası çok bir şey yapmadım.
+üşenmek - лень делать что-нибудь
+Genellikle hafta içi yorgun oluyorum. - Обычно я устаю в будние дни.
+hafta içi - будние дни
+Gün boyu çalışmaktan enerjim tükeniyor. - Я устаю от работы весь день.
+daha doğru - более правильно
+ertesi gün de ofisteki işlerine daha iyi konsantre olabilirsin. - на следующий день ты можешь лучше сосредоточиться на своей работе в офисе.
+ertesi - следующий
+dört beş arkadaş sahilde kahvaltı yapacağız. - мы с четырьмя-пятью друзьями будем завтракать на пляже.
+ne yazık ki - к сожалению
+belki karşılaşırız - возможно мы встретимся
+kim bilir - кто бы мог знать
+
+Nazli neden geç kaldı? Sıkışık bir trafik vardı.
+Seda çok çalışıyor mu? Evet, işler çok yoğundu.
+Seda sık sık arkadaşlarıyla buluşabiliyor mu? Hayır, birkaç hafta sonu lisedeki arkadaşlarıyla buluştu.
+
+### 2024-02-01
+Bugün ayın kaçı? - Какое сегодня число?
+
+ne yapsam - что бы я ни делал
+ne söylesam - что бы я ни говорил
+ne zaman anlatsam - когда бы я ни рассказывал
+nasıl olsa, nasılsa - в любом случае
+ne de olsa - в конце концов
+çalışsam da çalışmasam da - работаю или не работаю
+sevse de sevmese de - любит или не любит
+gerek gerekse - как.. так
+oysa - между тем как
+öyleyse - таким образом
+oysa - однако
+ise - а
+öyleyse - таким образом
+oysa - однако
+
+Öyle işte anne. - Так вот, мама.
+falan - и так далее
+otur bakayım - а ну ка садись
+dururken - в то время как стоит
+geçirmez - не пропускает
+durup dururken - вдруг
+gıçık oluyor bana - я раздражаюсь
+Ben de ona gıcık oluyorum tabii! - Я тоже раздражаюсь на него, конечно!
+Ne biçim konuşuyorusun sen! - Как ты говоришь!
+Ne biçin ders çalılıyorsun! - Как ты учишься! Ай-ай-ай!
+kızı haklı çunku - девушка права, потому что..
+adaletli davranmalı - должен быть справедливым
+Anton seviyor, ben ise sevmiyorum - Антон любит, а я нет.
+
+s34 - 12, 13, 14
+
+Ödevim
+- Eğer arabada çantalar olsaydı, o zaman getirirdi.
+- Eğer evde kedi olsaydı, o zaman onu davet etmedim.
+- Eğer bahçede sandalyeler olsaydı, o zaman sandalyeleri almadık.
+
+- Eğer senin yanında yaşasaydım, o zaman sana yardım ederdim.
+- Eğer sen gelmeseydin, o zaman biz Ahsen'i davet ederdik.
+- Eğer o yorgun olsaydı, o zaman sinemaya gitmeyi teklif etmedi.
+- Eğer biz yeseydik o zaman restorana gitmezdik.
+- Eğer ödeseniz, o zaman mesaj gelmezdi.
+- Eğer onlar daha fazla kazanlarsaydı, o zaman ev alabilirlerdi.
+
+- Если бы в машине были сумки, то ты бы принесла.
+- Если бы дома был кот, то я бы его не приглашал.
+- Если бы в саду были стулья, то мы бы не купили стулья.
+
+- Если бы я жил рядом с тобой, то я бы помог тебе.
+- Если бы ты не пришёл, то мы бы позвали Ахсен.
+- Если бы она устала, то она бы не предложила пойти в кино.
+- Если бы мы поели, то мы бы не зашли в ресторан.
+- Если бы Вы оплатили, то сообщение бы не пришло.
+- Если бы они больше зарабатывали, они могли бы купить дом.
+
+34.12
+1. Ders­le­ri­miz ­bit­ti. Öyleyse ar­tık­ si­ne­ma­ya ­gi­de­bi­li­riz. - Наши уроки закончились. Таким образом, мы можем пойти в кино.
+2. Ne­den­ be­nim­le ­ko­nuş­mu­yor­sun. **Öyleyse** küs­tün­ mü?­ - Почему ты не разговариваешь со мной? Таким образом, ты обиделся?
+3. Ev­de­ bir ­ko­ku ­var.­ **Öyleyse** ocağı ­açık­ mı ­bı­rak­tın? - В доме есть запах. Таким образом, ты оставил плиту включенной?
+4. Tür­ki­ye’de­ ya­şa­ma­yı­ dü­şü­nü­yor­su­nuz.­ **Öylese** Türk­çe­yi ­çok ­iyi ­öğ­ren­me­li­si­niz. - Вы думаете жить в Турции. Таким образом, вы должны хорошо выучить турецкий язык.
+5. Sı­na­vım ­çok ­kö­tü ­geç­ti. **Oysa** çok­ iyi ­ha­zır­lanmış­tım. - Мой экзамен прошел очень плохо. В то время как я хорошо подготовился.
+6. Niye­ beni­ hiç­ aramıyorsun?­ **Öylese** artık­ beni sevmiyor ­musun? - Почему ты меня вообще не звонишь? Таким образом, ты меня больше не любишь?
+7. Yor­gun­ mu­sun? **Nasılsa** din­len­ bi­raz. - Ты устал? В любом случае, отдохни немного.
+8. Ne­den ­ha­la­ gel­me­di­ler? **Öylese** kö­tü­ bir ­şey­ mi ol­du? - Почему они до сих пор не пришли? Таким образом, что-то случилось?
+
+34.13
+1. Eskinin­ modası ekose­ yine­ revaçta.­ Nereye baksanız ekose giysili birilerini görüşüyorsunuz. - Мода прошлого года снова в тренде. Куда бы вы ни посмотрели, вы увидите кого-то в клетчатой одежде.
+2. Son­ günlerde­ midem­ çok­ rahatsız. **Ne yediysem** dokunuyor.
+3. Okulda­ **kimi görmeseydik** bize­ "Maça niye­ gelmediniz?"­ diye ­soruyor.
+4. Bu­ ne­ tesadüf!­ **Nereye gitseydik** karşılaşıyoruz. - Какое совпадение! Куда бы мы ни пошли, мы встречаемся.
+5. Ahmet ­çok ­beyefendi,­ saygılı ­bir­ gençtir. **Hangi sorsaydınız** aynı şeyi ­söyler.
+6. Of!­ **Ne konuşsaydım** "Saçların sarıyken ­daha ­güzeldi."­ diyor.
+7. Onunla **ne zaman görüşsaydim** eski ­günlerden ­bahsederiz.
+8. Salih ­son ­zamanlarda ­çok ­stresli ­ve ­sinirli. **Kim söyleseydi** kızıyor!
+9. Bugün­ televizyon­ seyretmeyeceğim.­ **Hangi kanalı ­açsaydım** spor­ programı ­var.
+10. Bizi **ne zaman görsaydı** kardeş ­sanıyor.
+11. Tarkan’ın­ son şarkısı ­çok ­güzel.­ **Ne zaman radyoyu** dinleseydim o­çalıyor.
+12. Bendeki şansa ­bak! **Kiminle okuldan ­kaçsaydim** babama ­yakalanıyorum.
