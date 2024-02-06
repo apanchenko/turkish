@@ -1,26 +1,26 @@
 <!-- markdownlint-disable MD022 MD031 MD032 MD033 MD036 MD041 -->
 # Türkçe
-- [Алфавит](#алфавит) `ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ`
-- [Гармония гласных](#гармония)
+- [Алфавит](#alfabe) `ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ`
+- [Гармония гласных](#sesli-harf-uyumu)
   - [Малая](#малая-гармония) `aıou → a`, `eiöü → e`
   - [Большая](#большая-гармония) `aı → ı`, `ei → i`, `ou → u`, `öü → ü`
 - [Числительные](#числительные)
 - [Множественное число](#lar-ler) `lar ler`
 - [С Без](#с-или-без) `🥕 lı li lu lü`, `🥕 sız siz suz süz`
-- [Время](#время)
+- [Время](#vakit)
   - [Который час?](#который-час) `saat + 9️⃣ ıiuü dakika geçiyor` ~ `saat + 9️⃣ ae dakika var`
   - [В котором часу?](#во-сколько) `saat + 9️⃣ ıiuü dakika geçe` ~ `saat + 9️⃣ ae dakika kala`
 - [dır](#dır)
 - [Относительные прилагательные и союзы](#ki) `ki`
 - [Отрицание](#отрицание)
-- [Я сам](#я-сам) `kendi`
+- [Я сам](#kendi) `kendi`
 - [Друг друга](#друг-друга) `birbiri`
 - [Когда был](#ken) `🥕 (y) + ken`
 - [Уменьшительно-ласкательное](#cık) `🥕 (y) + cık`
 - [Помоему, довольно, наречие](#ca) `🥕 + ca`
 - [Gibi kadar](#gibi-kadar)
 - [Падежи](#падежи)
-  - [Направительный](#направительный) `🥕 (y) + ae`
+  - [Направительный](#направительный) `🥕 (y) + a e`
   - [Исходный](#исходный) `🥕 dan den`
   - [Местный](#местный) `🥕 da de`
   - [Притяжательный-местный](#притяжательный-местный) `🥕 (s) + ıiuü + n + da`
@@ -66,9 +66,9 @@
 - [Союзы](#bağlaçlar)
 - [Словарь](#sözlük)
 - [Музыка](#müzik)
-## Алфавит
+## Alfabe
 A B C Ç D E F G Ğ H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
-## Гармония
+## Sesli harf uyumu
 ### Малая гармония
 - a, ı, o, u → a
 - e, i, ö, ü → e
@@ -124,7 +124,7 @@ A B C Ç D E F G Ğ H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 **sız siz suz süz**
 - Без
   - mutlusuz - несчастный
-## Время
+## Vakit
 ### Который час?
 - ровно
   - 00:00 - Gece on iki
@@ -226,7 +226,7 @@ A B C Ç D E F G Ğ H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
   - Çalışıyor ki başarılı olacak. → Он работает, чтобы быть успешным.
 ## Отрицание
 **🥕 + m**
-## Я сам
+## kendi
 |              | ben       | sen       | o           | biz         | siz         | onlar         |
 |--------------|-----------|-----------|-------------|-------------|-------------|---------------|
 | именительный | kendim    | kendin    | kendisi     | kendimiz    | kendiniz    | kendileri     |
@@ -408,7 +408,7 @@ Benim gibi - senin kadar - onun gibi - bizim gibi - onlar gibi
 - Bu kitabı okuman lazım değil - Тебе не нужно читать эту книгу
 
 ### Направительный
-`🥕 (y) + ae`
+**`🥕 (y) + a e`**
 - Куда? Кому?
 ### Исходный
 `🥕 dan den`
@@ -1486,17 +1486,7 @@ Yüksekten korkarım
 - alçı çıkarmak - снять гипс
 ## Müzik
 ### Seni Bugün Görmem Lazım
-
 [sound](https://on.soundcloud.com/ewBjv)
-
-<div class="sound-container">
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/528655041&color=%23f7f5ed&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
-
-<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
-<a href="https://soundcloud.com/sinemgungor" title="Sinem Güngör" target="_blank" style="color: #cccccc; text-decoration: none;">Sinem Güngör</a> · <a href="https://soundcloud.com/sinemgungor/sne-oyalama-beni-cover" title="s’Ne - Oyalama Beni (cover)" target="_blank" style="color: #cccccc; text-decoration: none;">s’Ne - Oyalama Beni (cover)</a>
-</div>
-
 ```lyrics
 Bir düş gördüm düşümde gözlerin yerlerdeydi
 Ellerin ceplerinde kalbin ötelerdeydi
