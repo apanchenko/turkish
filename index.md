@@ -1098,12 +1098,21 @@ Yüksekten korkarım
   - Eğer masada elma ol**saydı**, o zaman yerdin. - Если бы на столе было яблоко, то ты бы съел.
   - Eğer Güzеlin gününde 48 saat ol**saydı** - Если бы у Гюзель в день было 48 часов
   - Eğer evde süt ol**saydı** size çok güzel bir sütlaç yapardm. - Если бы дома было молоко, то я бы вам приготовила очень вкусный сутляч.
+  - Eğer arabada çantalar ol**saydı**, o zaman getirirdi. - Если бы в машине были сумки, то ты бы принесла.
+  - Eğer evde kedi ol**saydı**, o zaman onu davet etmedim. - Если бы дома был кот, то я бы его не приглашал.
+  - Eğer bahçede sandalyeler ol**saydı**, o zaman sandalyeleri almadık. - Если бы в саду были стулья, то мы бы не купили стулья.
 - С глаголами
   - Eğer Anton denizde yaşa**saydı** - если бы Антон жил у моря
   - Eğer Nataşa dağlarda ev alırsa - Если бы Наташа купила дом в Горах
-  - dikkat et**seydin** - если бы ты обратил внимание
   - Eğer senin kardeşin bu şehirde çalış**saydı** ben ona yeni bir iş bulurdum.
   - Eğer Erkan faturayı zamanında ödeme**seydi** ceza tutarını ödemek zorunda kalırdık.
+  - Eğer senin yanında yaşa**saydım**, o zaman sana yardım ederdim. - Если бы я жил рядом с тобой, то я бы помог тебе.
+  - Eğer sen gelme**seydin**, o zaman biz Ahsen'i davet ederdik. - Если бы ты не пришёл, то мы бы позвали Ахсен.
+  - Eğer o yorgun ol**saydı**, o zaman sinemaya gitmeyi teklif etmedi. - Если бы она устала, то она бы не предложила пойти в кино.
+  - Eğer biz ye**seydik** o zaman restorana girmezdik. - Если бы мы поели, то мы бы не зашли в ресторан.
+  - Eğer öde**seniz**, o zaman mesaj gelmezdi. - Если бы Вы оплатили, то сообщение бы не пришло.
+  - Eğer onlar daha fazla kazan**saylardı**, o zaman ev alabilirlerdi. - Если бы они больше зарабатывали, они могли бы купить дом.
+  - dikkat et**seydin** - если бы ты обратил внимание
 #### Sabit ifadeler
 - ne yapsam - что бы я ни делал
 - ne söylesem - что бы я ни говорил
@@ -1111,9 +1120,17 @@ Yüksekten korkarım
 - nasil olsa, nasılsa - в любом случае
 - çalışsam da çalışmasam da - работал бы я или не работал
 - gerek .. gerekse - как ... так и
-- oysa - между тем как как, though, whereas, but, while, yet, however, on the other hand
-- öylese - then, in that case, if so
-- yoksa - иначе
+- oysa - однако, между тем как как
+  - Sı­na­vım ­çok ­kö­tü ­geç­ti. **Oysa** çok­ iyi ­ha­zır­lanmış­tım. - Мой экзамен прошел очень плохо. Хотя я хорошо подготовился.
+- öylese - тогда
+  - Ders­le­ri­miz ­bit­ti. **Öyleyse** ar­tık­ si­ne­ma­ya ­gi­de­bi­li­riz. - Наши уроки закончились. Тогда, мы можем пойти в кино.
+  - Tür­ki­ye’de­ ya­şa­ma­yı­ dü­şü­nü­yor­su­nuz.­ **Öylese** Türk­çe­yi ­çok ­iyi ­öğ­ren­me­li­si­niz. - Вы думаете жить в Турции. Таким образом, вы должны хорошо выучить турецкий язык.
+  - Yor­gun­ mu­sun? **Öylese** din­len­ bi­raz. - Ты устал? Тогда, отдохни немного.
+- yoksa - неужели
+  - Ne­den­ be­nim­le ­ko­nuş­mu­yor­sun. **Yoksa** küs­tün­ mü?­ - Почему ты не разговариваешь со мной? Нужели, ты обиделся?
+  - Ev­de­ bir ­ko­ku ­var.­ **Yoksa** ocağı ­açık­ mı ­bı­rak­tın? - В доме есть запах. Нужели, ты оставил плиту включенной?
+  - Niye­ beni­ hiç­ aramıyorsun?­ **Yoksa** artık­ beni sevmiyor ­musun? - Почему ты меня вообще не звонишь? Неужели, ты меня больше не любишь?
+  - Ne­den ­ha­la­ gel­me­di­ler? **Yoksa** kö­tü­ bir ­şey­ mi ol­du? - Почему они до сих пор не пришли? Неужели, что-то случилось?
 - ise - а
 ## Bağlaçlar
 - **ve** - и

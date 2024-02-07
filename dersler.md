@@ -973,40 +973,7 @@ kızı haklı çunku - девушка права, потому что..
 adaletli davranmalı - должен быть справедливым
 Anton seviyor, ben ise sevmiyorum - Антон любит, а я нет.
 
-s34 - 12, 13, 14
-
-Ödevim
-- Eğer arabada çantalar olsaydı, o zaman getirirdi.
-- Eğer evde kedi olsaydı, o zaman onu davet etmedim.
-- Eğer bahçede sandalyeler olsaydı, o zaman sandalyeleri almadık.
-
-- Eğer senin yanında yaşasaydım, o zaman sana yardım ederdim.
-- Eğer sen gelmeseydin, o zaman biz Ahsen'i davet ederdik.
-- Eğer o yorgun olsaydı, o zaman sinemaya gitmeyi teklif etmedi.
-- Eğer biz yeseydik o zaman restorana gitmezdik.
-- Eğer ödeseniz, o zaman mesaj gelmezdi.
-- Eğer onlar daha fazla kazanlarsaydı, o zaman ev alabilirlerdi.
-
-- Если бы в машине были сумки, то ты бы принесла.
-- Если бы дома был кот, то я бы его не приглашал.
-- Если бы в саду были стулья, то мы бы не купили стулья.
-
-- Если бы я жил рядом с тобой, то я бы помог тебе.
-- Если бы ты не пришёл, то мы бы позвали Ахсен.
-- Если бы она устала, то она бы не предложила пойти в кино.
-- Если бы мы поели, то мы бы не зашли в ресторан.
-- Если бы Вы оплатили, то сообщение бы не пришло.
-- Если бы они больше зарабатывали, они могли бы купить дом.
-
-34.12
-1. Ders­le­ri­miz ­bit­ti. Öyleyse ar­tık­ si­ne­ma­ya ­gi­de­bi­li­riz. - Наши уроки закончились. Таким образом, мы можем пойти в кино.
-2. Ne­den­ be­nim­le ­ko­nuş­mu­yor­sun. **Öyleyse** küs­tün­ mü?­ - Почему ты не разговариваешь со мной? Таким образом, ты обиделся?
-3. Ev­de­ bir ­ko­ku ­var.­ **Öyleyse** ocağı ­açık­ mı ­bı­rak­tın? - В доме есть запах. Таким образом, ты оставил плиту включенной?
-4. Tür­ki­ye’de­ ya­şa­ma­yı­ dü­şü­nü­yor­su­nuz.­ **Öylese** Türk­çe­yi ­çok ­iyi ­öğ­ren­me­li­si­niz. - Вы думаете жить в Турции. Таким образом, вы должны хорошо выучить турецкий язык.
-5. Sı­na­vım ­çok ­kö­tü ­geç­ti. **Oysa** çok­ iyi ­ha­zır­lanmış­tım. - Мой экзамен прошел очень плохо. В то время как я хорошо подготовился.
-6. Niye­ beni­ hiç­ aramıyorsun?­ **Öylese** artık­ beni sevmiyor ­musun? - Почему ты меня вообще не звонишь? Таким образом, ты меня больше не любишь?
-7. Yor­gun­ mu­sun? **Nasılsa** din­len­ bi­raz. - Ты устал? В любом случае, отдохни немного.
-8. Ne­den ­ha­la­ gel­me­di­ler? **Öylese** kö­tü­ bir ­şey­ mi ol­du? - Почему они до сих пор не пришли? Таким образом, что-то случилось?
+s34 -  14
 
 34.13
 1. Eskinin­ modası ekose­ yine­ revaçta.­ Nereye baksanız ekose giysili birilerini görüşüyorsunuz. - Мода прошлого года снова в тренде. Куда бы вы ни посмотрели, вы увидите кого-то в клетчатой одежде.
