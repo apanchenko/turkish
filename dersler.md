@@ -993,11 +993,38 @@ s34 -  14
 
 Ulaçlar - деепричастия
 
-достать деньги из кошелька - cüzdanından parayı çıkarmak
+elbette - конечно
+aslında - на самом деле
+Hatta - даже
+sadece - только
+Tabii ki - конечно
+O sırada - в то время
 
-Melis cüzdandan parayı cıkarıp ve bankamatiğe yatırdı.
+Sandviçin kırıntılarını yere dökerek yiyordu. - Он ел, рассыпая крошки бутерброда на пол.
+O sandviçini yiyip elini yıkamaya gitti - Он поел свой бутерброд и пошел помыть руки.
+Ben de kendime bir kahve almak için masadan kalkıp mutfağa gittim - Я тоже встал со стола, чтобы взять себе кофе в кухне.
+rahatlatıcı bir şey - что-то расслабляющее
+Tabii ki iş arkadaşlarımla vedalaşmadan ofisten çıkmadım - Конечно, я не ушел из офиса, не попрощавшись с коллегами по работе.
+durağına kadar - до остановки
+kulaklık - наушники
+Şimdi ise evdeyim - Теперь я дома.
+kalkmak - вставать
+işleri bitirip çıkacağım - закончу дела и уйду
+buluşmadan eve gitmeyeceğim - не пойду домой до встречи
 
-ezgi - мелодия
-aşı olmak - прививаться
+1. Deniz sporusunu ve kahvaltısını yapmadan evden çıkmaz. - Он не выходит из дому, пока не сделает зарядку и не позавтракает. 
+2. Deniz otobüste telefonundan haberleri izleyerek işe gidiyor.
+3. Deniz’e göre insanlar güne kahvaltı yapmadan başlıyor. - По мнению Дениза, люди начинают день без завтрака.
+4. Deniz ofiste kahve içmeden işe başlamıyor. - Дениз не начинает работу без кофе в офисе.
 
-Ben kahva
+Deniz ofiste kahve içmiyor. ………………………………..(Y)
+Deniz arkadaşlarıyla vedalaşmıyor. …………………….(Y)
+Deniz portakal suyuyla otobüse biniyor. …………….(Y)
+Deniz kahvaltıda kahve içmiyor. ………………………….(D)
+
+
+Deniz iş yerinde işe başlamadan önce ne yapıyor? - Что делает Дениз на работе, прежде чем начинает работать?
+
+
+из её телефона доносится звук - 
+Bu sabah otobüste telefonumdan haberleri izleyerek ofise gittim.
