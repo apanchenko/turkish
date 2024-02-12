@@ -980,14 +980,14 @@ s34 -  14
 2. Son­ günlerde­ midem­ çok­ rahatsız. **Ne yediysem** dokunuyor.
 3. Okulda­ **kimi görmeseydik** bize­ "Maça niye­ gelmediniz?"­ diye ­soruyor.
 4. Bu­ ne­ tesadüf!­ **Nereye gitseydik** karşılaşıyoruz. - Какое совпадение! Куда бы мы ни пошли, мы встречаемся.
-5. Ahmet ­çok ­beyefendi,­ saygılı ­bir­ gençtir. **Hangi sorsaydınız** aynı şeyi ­söyler.
+5. Ahmet ­çok ­beyefendi,­ saygılı ­bir­ gençtir. **Hangi sorsaydınız** aynı şeyi ­söyler. - 
 6. Of!­ **Ne konuşsaydım** "Saçların sarıyken ­daha ­güzeldi."­ diyor.
 7. Onunla **ne zaman görüşsaydim** eski ­günlerden ­bahsederiz.
-8. Salih ­son ­zamanlarda ­çok ­stresli ­ve ­sinirli. **Kim söyleseydi** kızıyor!
-9. Bugün­ televizyon­ seyretmeyeceğim.­ **Hangi kanalı ­açsaydım** spor­ programı ­var.
-10. Bizi **ne zaman görsaydı** kardeş ­sanıyor.
-11. Tarkan’ın­ son şarkısı ­çok ­güzel.­ **Ne zaman radyoyu** dinleseydim o­çalıyor.
-12. Bendeki şansa ­bak! **Kiminle okuldan ­kaçsaydim** babama ­yakalanıyorum.
+8. Salih ­son ­zamanlarda ­çok ­stresli ­ve ­sinirli. **Ne söysen** kızıyor! - Салих в последнее время очень стрессовый и раздраженный. Он злится на все, что ты говоришь!
+9. Bugün­ televizyon­ seyretmeyeceğim.­ **Hangi kanalı ­açsam** spor­ programı ­var. - Сегодня я не буду смотреть телевизор. Какой канал я ни включу, там спортивная программа.
+10. Bizi **kim görse** kardeş ­sanıyor.
+11. Tarkan’ın­ son şarkısı ­çok ­güzel.­ **Ne zaman radyoyu dinlesem** o­çalıyor. - Последняя песня Таркана очень хорошая. Когда бы я ни слушал радио, она играет.
+12. Bendeki şansa ­bak! **Ne zamanda okuldan ­kaçsam** babama ­yakalanıyorum. - Посмотри на мою удачу! Когда бы я ни уходил из школы, меня ловит мой отец.
 
 ### 2024-02-05
 
@@ -1022,9 +1022,31 @@ Deniz arkadaşlarıyla vedalaşmıyor. …………………….(Y)
 Deniz portakal suyuyla otobüse biniyor. …………….(Y)
 Deniz kahvaltıda kahve içmiyor. ………………………….(D)
 
+### 2024-02-08
+- üşütmek - простудиться
+- açken içmek - пить на голодный желудок
+- tokken içmek - пить на полный желудок
+- tesadüf - случайность
+- yukarı kaydırmak - прокрутить вверх
+- yukarı - вверх
+- aşağı - вниз
+- Ne yesem dokunuyor - что бы я ни ел, мне плохо
+- Domates bana dokunuyor - помидор мне не по вкусу
+- Fındık bana dukunuyor - орех мне не по вкусу
+- не беспокойся - merak etme
+- все блюда - tüm yemekler
+- очень строгая мать - bu çok sert bir anne
+- yemeğin üstüne - после еды
+- alt tarafı - всего лишь
 
-Deniz iş yerinde işe başlamadan önce ne yapıyor? - Что делает Дениз на работе, прежде чем начинает работать?
+Sağlıklı yemek kursu.
+Ucakların başındaki dokuz kadın ve iki erkek. Lezzetli sağlıklı yemekler pişirmeye çalışıyor. - Девять женщин и два мужчины в начале самолета. Они пытаются приготовить вкусные и здоровые блюда.
+Aslinda hepsi yemek yapmayı biliyor ve seviyor. - На самом деле все они умеют и любят готовить.
+Zaten yemek pişirmekten anlamıyorsanız bu kursa katırlaıyorsanız. - Если вы не умеете готовить, то вы пришли на этот курс.
+Sağlıklı mutfak kursunun katımcılarılı altı yemek üzerine çalışıyor. - Участники курса здоровой кухни работают над шестью блюдами.
+Menude makarnayı gibi kilo
 
+### 2024-02-12
 
-из её телефона доносится звук - 
-Bu sabah otobüste telefonumdan haberleri izleyerek ofise gittim.
+s36 1, 2
+s37 6
