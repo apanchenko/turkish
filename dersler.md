@@ -1049,4 +1049,40 @@ Menude makarnayı gibi kilo
 ### 2024-02-12
 
 s36 1, 2
-s37 6
+s37 5, 6, 7
+
+eşyaların → вещи
+yerini → место
+üzerimize → на нас
+takmak → надевать
+daralmak → сжиматься
+Terzi → портной
+bol → свободный
+hareket → движение
+sevimli → милый
+yıkamak → мыть
+
+36-1
+1. Annesi çocuğa yemek yediriyor.
+2. Trafik polisi hızlı giden arabaları dur**dur**uyor.
+3. Hemşire hastaya ilaçlarını iç**ir**iyor.
+4. Saçlarını en pahalı kuaförlerde kes**der**iyor.
+5. Sabahları erken kalkıp köpeğimi gez**der**iyorum.
+6. Öğretmen son derste bize kompozisyon yaz**dır**dı.
+7. Haftada bir evimi temizlikçiye temizle**t**ir.
+8. Üzerimdeki takımı terziye dik**tir**dim.
+9. Sabah beni sekizde uyan**dır** lütfen!
+10. Kuzenim dergilerden çıkan posterleri duvarlara yapış**ır**ır.
+11. Selma Ayhan'la çarpışınca elindeki bütün dosyaları yere düş**ür**tu.
+12. Sekreter mektupları göndermeden önce görevliye fotokopi çek**tir**ıyor.
+13. Yaptığı şakalar hepimizi kız**dır**ıyor.
+14. Odadaki eşyaların yerini kim değiş**tir**di?
+15. Sokaktaki köpek üzerimize doğru koşarak bizi korkuttu. → Собака на улице бежала на нас, пугая нас.
+16. Kapıcıya sabah için iki ekmek aldırdım. → Я попросил у дворника два хлеба на завтрак.
+17. Yönetici apartman kapısına yeni lamba tak**tır**dı. → Менеджер установил новую лампу у входа в дом.
+18. Terzi bana bol gelen elbisemi daral**t**tı. → Портной ушивал мне свободное платье.
+19. Çocuk sevimli hareketleriyle hepimize kendini sevdirdi. → Ребенок своими милыми движениями полюбил себя у всех.
+20. Tatilden sonra arabamı yıka**t**tım. - После отпуска я помыл свою машину.
+
+
+→
