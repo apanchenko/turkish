@@ -112,6 +112,7 @@ A B C Ç D E F G Ğ H I İ J K L M N O Ö P R S Ş T U Ü V Y Z
 - üçer → по три
 - dörder → по четыре
 - Sen sabahları ve akşamları kaçar ilaç içiyorsun? → Сколько ты принимаешь лекарств утром и вечером?
+- 37.5 → 37 nokta 5
 ## lar ler
 **+ lar ler**
 
@@ -1145,7 +1146,9 @@ Yüksekten korkarım
   - Ne­den ­ha­la­ gel­me­di­ler? **Yoksa** kö­tü­ bir ­şey­ mi ol­du? → Почему они до сих пор не пришли? Неужели, что-то случилось?
 - ise → а
 ### Ettirgen çatı
-Вмешивается и подталкивает к действию. Используем **`bana`** с переходными глаголами (кого? что?). Используем **`beni`** с непереходными глаголами.
+Вмешивается и подталкивает к действию.
+Объект в [направительном педеже](#направительный) (**`bana`**) с переходными глаголами (кого? что?).
+Объект в [винительном падеже](#винительный) (**`beni`**) с непереходными глаголами.
 - **`dır dir dur dür`** если глагольный корень оканчивается на согласную
   - gül**dür**mek → смешить
     - O Nastya'yı güldürdü → Он рассмешил Настю
@@ -1164,7 +1167,7 @@ Yüksekten korkarım
   - ağla**t**mak → заставить плакать
   - sula**t**mak → заставить полить
   - elle**t**memek → не давать трогать
-  - ezberletmek → заставить выучить наизусть
+  - ezberle**t**mek → заставить выучить наизусть
   - bekle**t**mek → заставить ждать
   - izle**t**mek → заставить смотреть
   - oyna**t**mak → заставить играть
@@ -1627,3 +1630,7 @@ Kötü bir rüya gördüm o zaman
 O da mı yalan bu da mı yalan
 Kötü bir rüya gördüm o zaman
 ```
+## Links
+- тур-анг словарь [tureng](https://tureng.com/tr/turkce-ingilizce)
+- словари [sözlük](https://sozluk.gov.tr/)
+- этимология [Türkçe Etimolojik](https://www.nisanyansozluk.com)

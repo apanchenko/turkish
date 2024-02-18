@@ -1084,5 +1084,24 @@ yıkamak → мыть
 19. Çocuk sevimli hareketleriyle hepimize kendini sevdirdi. → Ребенок своими милыми движениями полюбил себя у всех.
 20. Tatilden sonra arabamı yıka**t**tım. - После отпуска я помыл свою машину.
 
+iyileşirmek → восстанавливаться
+ezberlemek → запоминать
+bulanmasına → тошнота
+tamir etmek → ремонтировать
+midemi bulandırıyorsun → ты меня тошнишь
+hesabı → счет
+toplamamak → собирать
+
+s36-2
+1. Müdür sekretere mektup yaz**dır**dı. → Директор заставил секретаря написать письмо.
+2. Babaannem bana gazetedeki bir haberi oku**t**tu. → Моя бабушка заставила меня прочитать новость в газете.
+3. Cem hesabı Mehmeta öde**t**medi → Джем не разрешил Мехмету оплатить счет.
+4. Babası çocuğa televizyon izle**t**medi. → Его отец не разрешил ему смотреть телевизор.
+5. Doktor doğru bir tedaviyle hastayı hızla iyileş**ir**di.
+6. Bizim için yaptığı yemek o kadar kötüydü ki bütün gün midemi bulan**dır**dı.
+7. Müdür bilgisayarını bana tamir etme**t**ti.
+8. Şef garsonlara tabakları topla**t**tı.
+9. Resim öğretmeni öğrencilere fotoğraf cek**tir**di.
+10. Resim öğretmeni öğrencilere okulun duvaruna resim çiztirdi.
 
 →
