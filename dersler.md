@@ -843,7 +843,7 @@ bir türlü - никак
 birden fazla gazete okuyarak gündemi takip edin - читайте несколько газет, чтобы следить за новостями
 sadece dünyadaki politik olayları değil - не только политические события в мире
 kültür ve sanatla ilgileri gelişmeleri de takip edin - следите за развитием культуры и искусства
-paranız yeterliyse mutlaka seyahat edin. yaşantıları ve hatta yemekleri 
+paranız yeterliyse mutlaka seyahat edin. yaşantıları ve hatta yemekleri
 öğrenmenin tanımı - определение обучения
 ömür boyu öğrenme için öneriler - рекомендации по обучению на всю жизнь
 
@@ -993,13 +993,6 @@ s34 -  14
 
 Ulaçlar - деепричастия
 
-elbette - конечно
-aslında - на самом деле
-Hatta - даже
-sadece - только
-Tabii ki - конечно
-O sırada - в то время
-
 Sandviçin kırıntılarını yere dökerek yiyordu. - Он ел, рассыпая крошки бутерброда на пол.
 O sandviçini yiyip elini yıkamaya gitti - Он поел свой бутерброд и пошел помыть руки.
 Ben de kendime bir kahve almak için masadan kalkıp mutfağa gittim - Я тоже встал со стола, чтобы взять себе кофе в кухне.
@@ -1104,4 +1097,184 @@ s36-2
 9. Resim öğretmeni öğrencilere fotoğraf cek**tir**di.
 10. Resim öğretmeni öğrencilere okulun duvaruna resim çiztirdi.
 
+yapıştırdım → приклеил
+toplatmaya → собирать
+beklettim → заставил ждать
+yaptırdım → заставил сделать
+çektirdim → сделал фото
+
+diktirdim → заставил пошить
+sardırdım → завернул
+kuruttum → высушил
+ütülettim → заставил погладить
+
+37-5
+AKSILIK BU YA...
+Bu akşam için çok hazırlandım. Bir ay öncesinden terzime
+gece kıyafetimi **diktirdim**. Sabah erkenden kuaförüme
+gittim. Saç modelim konusunda kararsızdım. Önce dalgalı
+daha güzel olur diye düşünüp saçımı **sardırdım**, o
+şeklini beğenmedim, fön **kuruttum**. Sonra o modeli
+de beğenmediğim için _______________ karar verdim. Saçım
+bittikten sonra makyajımı da orada _______________ . Bütün
+günümü kuaförde geçirdim. Kuaförden çıktıktan sonra eve
+gittim. Elbisemi gardıroptan çıkardığımda bazı yerlerinin
+buruşuk olduğunu gördüm. Hemen anneme elbisemi
+**ütülettim**. Giyindim. Saçım, makyajım, kıyafetim gayet
+iyiydi. Çıkmadan önce su içmek istedim. Su içerken bar-
+dak elimden dütü ve her yerim ıslandı. Hemen saç ku-
+rutma makinesiyle elbisemi _______________ . Bu sırada saat
+yedi oldu. Arkadaım beni almaya geldi. Tam evden çıkar-
+ken ayakkabımın topu¤u çıktı. Neyse ki evde yapıtırıcı var-
+dı. Hemen topu¤umu _______________, ama biraz beklemek
+gerekiyordu. ‹stemeden de olsa arkadaımı arabada
+_______________ Aa¤ıya indi¤imde davet balayalı yarım sa-
+at olmutu. Hazırlık yapmaya o kadar erken balamama
+ra¤men aksilikler peimi bırakmadı ve her zaman oldu¤u
+gibi geç kaldım.
+
+### 2024-02-19
+- geçmeli → должен пройти
+- kişiydik → были
+- memnuniyetle → с удовольствием
+- tabii ki → конечно
+- şuan → сейчас
+- şişkoydum → я был толстым
+- görevlisi görültü yapan öğrencileri dişarı çıkardı → студенты, которые шумели, были выведены из аудитории
+- yapan → делающий
+- hemşire → медсестра
+- çalışana hesap açtırdım → я открыл счёт работнику
+- повар → aşçı
+- Ben fırını ustaya tamir ettirdim. → Я отдал печь мастеру на ремонт.
+- çopçülere → мусорщикам
+- Belediye çopçülere bütün sokakları temizletti. → Муниципалитет заставил мусорщиков убрать все улицы.
+- Çocuklarım için bankada hesap açtırdım. → Я открыл счёт для своих детей в банке.
+- Öğretmen sınıfta ingilizce konuşurdu. →
+- накопление → birikim
+- внести информацию → bilgi girmek
+- yeni bilgi sokmak istiyorum → я хочу внести новую информацию
+- я приготовился → hazırlandım
+- buyurun → пожалуйста (когда разрешаешь что-то)
+- lütfen → пожалуйста (когда просишь что-то)
+- сервис → hizmet
+
+### 2024-02-22
+- по сравнению с японией везде дёшево - Japonya'ya göre her yer ucuz
+кнопка - düğme
+вызавать - çağırmak
+yazdırmak - напечатать
+yazmak - писать
+akmak - течь
+Sıcak suyun akması için iki dakika suyu akıt. → Чтобы горячая вода текла, пропусти воду две минуты.
+
+#### Усложнённый понудительный залог
+Я + посредник + исполнитель.
+- Если оканчивается на **`r`**, добавляется **`t`**
+  - yazdırmak → yazdırtmak
+  - içirmek → içirtmek
+- Если оканчивается на **`t`**, добавляется **`tır tir tur tür`**
+  - uyutmak → uyutturmak
+  - düzeltmek → düzelttirmek
+  - akıtmak → akıttırmak
+- sokmak → sokturmak
+
+Ben Barış'ı ot**urt**uyorum → Я заставляю Барыша сесть
+Ben Öykü'ye Barış'ı oturtturuyorum → Я заставляю Ойкю заставить Барыша сесть.
+Ben bağırıyorum → Я кричу
+Ben Barış'ı bağırtıyorum → Я заставляю Барыша кричать
+Ben Öykü'ye Barış'ı bağırttırıyorum → Я заставляю Ойкю заставить Барыша кричать.
+Ben dümen çeviriyorum → Я кручу руль
+Ben Barışa dümen çevirtiyorum → Я заставляю Барыша крутить руль
+Ben Öykü'ye Barışa dümen çevirttiriyorum → Я заставляю Ойкю заставить Барыша крутить руль.
+Ben su içiyorum
+Ben Barış'a su içiriyorum
+Ben Öykü'ye Barış'a su içirtiyorum. → Я заставляю Ойкю заставить Барыша пить воду.
+Ben eve giriyorum
+Ben Barış'ı eve sokuyorum
+Ben Öykü'ye Barış'ı eve sokturtuyorum. → Я заставляю Ойкю заставить Барыша зайти в дом.
+Ben odadan çıkıyorum
+Ben odadan kediyi çıkarıyorum
+Ben odadan Öykü'ye kediyi çıkartıyorum. → Я заставляю Ойкю заставить кота выйти из комнаты.
+Ben korkuyorum
+Ben Barış'ı korkutuyorum
+Ben Öykü'ye Barış'ı korkutturuyorum. → Я заставляю Ойкю заставить Барыша испугаться.
 →
+
+s38 - 8, 9
+s38 metin + sorular
+
+### 2024-02-26
+olmak - используем только в случаях когда что-то *стало* или *получилось*.
+misafir etmek - принимать гостей
+рыбачить - balık tutmak
+хорошо провели время - güzel zaman geçirdik
+ходит на балет - baleye gidiyor
+Allah bağışlasın - Бог даровал!
+madem - раз уж
+Kim okusun - Кто будет читать?
+paçalarını - низ брюк
+görevlileri sokaktaki afişleri toplattı - служащие убрали афиши на улице
+inmek - спускаться
+saymak - считать
+para sayma makinesi - денежный счетчик
+son olarak - наконец
+oyalamak - задерживать
+bozuk ampulleri
+bozuk - сломанный
+baş hekim - главный врач
+
+### 2024-02-29
+biraz uzun kaldım - я задержался немного
+oyalandım → я задержался
+мыть посуду → bulaşık yıkamak
+перчатки → eldiven
+Aferin ona! → Молодец!
+eşit → равный
+oyuncak → игрушка
+kalan pastayı → оставшийся пирог
+paymak → делить
+payıştırmak → делить
+acımasızca → беспощадно
+karşıyım → я против
+destekliyorum → я поддерживаю
+tesadüfen → случайно
+bozmak → испортить
+
+s40 - 12, 13, 14, 15
+
+### 2024-03-04
+boş ver → забей
+eminim → уверен
+fiyat tuzluydu → цена была высокой
+ucuzlamak → становиться дешевле
+ucuzlamıştır → стало дешевле
+çekmecede → в ящике
+kör → слепой
+zengin → богатый
+yardımcı → помощник
+gösteri → спектакль
+orta gelirli → средний класс
+gelir → доход
+gider - расходы
+suç → преступление
+suç işlemek zor değil → совершить преступление не сложно
+hayır değil → нет, не так
+bir evlilikte yeteri kadar suç bulmak
+sorun yaşamak → испытывать проблемы
+bana uyer → мне подходит
+yer ayırmak → зарезервировать место
+ısrar etmek → настаивать
+teklif etmek → предложить
+az sayında → в небольшом количестве
+Anton adlı bir adam → человек по имени Антон
+sahne almak → выходить на сцену
+sahneye çıkmak → выходить на сцену
+bensiz → без меня
+benim kızım bana çok bağlı → моя дочь очень привязана ко мне
+иногда → bazen
+
+### 2024-03-07
+
+s 42 - 1, 2 +
+s 43 - 4, 5
+
