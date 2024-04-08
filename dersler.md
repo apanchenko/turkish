@@ -1167,39 +1167,6 @@ yazmak - писать
 akmak - течь
 Sıcak suyun akması için iki dakika suyu akıt. → Чтобы горячая вода текла, пропусти воду две минуты.
 
-#### Усложнённый понудительный залог
-Я + посредник + исполнитель.
-- Если оканчивается на **`r`**, добавляется **`t`**
-  - yazdırmak → yazdırtmak
-  - içirmek → içirtmek
-- Если оканчивается на **`t`**, добавляется **`tır tir tur tür`**
-  - uyutmak → uyutturmak
-  - düzeltmek → düzelttirmek
-  - akıtmak → akıttırmak
-- sokmak → sokturmak
-
-Ben Barış'ı ot**urt**uyorum → Я заставляю Барыша сесть
-Ben Öykü'ye Barış'ı oturtturuyorum → Я заставляю Ойкю заставить Барыша сесть.
-Ben bağırıyorum → Я кричу
-Ben Barış'ı bağırtıyorum → Я заставляю Барыша кричать
-Ben Öykü'ye Barış'ı bağırttırıyorum → Я заставляю Ойкю заставить Барыша кричать.
-Ben dümen çeviriyorum → Я кручу руль
-Ben Barışa dümen çevirtiyorum → Я заставляю Барыша крутить руль
-Ben Öykü'ye Barışa dümen çevirttiriyorum → Я заставляю Ойкю заставить Барыша крутить руль.
-Ben su içiyorum
-Ben Barış'a su içiriyorum
-Ben Öykü'ye Barış'a su içirtiyorum. → Я заставляю Ойкю заставить Барыша пить воду.
-Ben eve giriyorum
-Ben Barış'ı eve sokuyorum
-Ben Öykü'ye Barış'ı eve sokturtuyorum. → Я заставляю Ойкю заставить Барыша зайти в дом.
-Ben odadan çıkıyorum
-Ben odadan kediyi çıkarıyorum
-Ben odadan Öykü'ye kediyi çıkartıyorum. → Я заставляю Ойкю заставить кота выйти из комнаты.
-Ben korkuyorum
-Ben Barış'ı korkutuyorum
-Ben Öykü'ye Barış'ı korkutturuyorum. → Я заставляю Ойкю заставить Барыша испугаться.
-→
-
 s38 - 8, 9
 s38 metin + sorular
 
@@ -1278,3 +1245,144 @@ benim kızım bana çok bağlı → моя дочь очень привязан�
 s 42 - 1, 2 +
 s 43 - 4, 5
 
+### 2024-03-14
+Кем сделано?
+- **`ca ce`** Если выполнено группой людей
+- **`.. benim tarafımdan`** Если выполнено кем-то или есть местоимение, но можно использовать и с группой людей
+  - kimin tarafından yapıldı? - кем сделано?
+  - benim tarafımdan yapılmadı - не мной сделано
+  - benim tarafımdan yapılmadı - мной не сделано
+
+.. benim tarafımdan
+.. senin tarafından
+.. onun tarafından
+.. bizim tarafımızdan
+.. sizin tarafınızdan
+.. onların tarafından
+
+katılımcı → участник
+Biz evemizde ailece temizlik yapılıyor - Мы убираемся дома всей семьей
+süpürmek → подметать
+jüri üyeleri → члены жюри
+oyuncu ödülü → награда актера
+
+s45 - 7
+
+### 2024-03-19
+- yüz yüze konuşabiliriz - мы можем поговорить лицом к лицу
+- sen evdeyken saat kaçtan saat kaçta kadar çalışıyorsun? - когда ты дома, с какого времени до какого времени ты работаешь?
+- bir saat daha çok çalışıyorum - я работаю ещё час
+- en azından evdeyken yol derdi olmuyor - по крайней мере, когда ты дома, проблем с дорогой нет
+- hoş boldum - приятно познакомиться
+- bu tarihlerde - в эти даты
+- gelecek sefer - в следующий раз
+- birşak yaptım - я сделал ошибку
+- yol ışıkları yetersiz değil - светофоры не работают
+- yol aydınlatma ışıkları hiç yoktu - светофоры вообще не работали
+- yoğun bakım - реанимация
+- koyu süt - сгущённое молоко
+- gereği gibi yap - сделай как надо
+- Bu yemek yenecek - этот суп будет съеден
+- mutlaka - обязательно
+- gelişme - развитие
+- görüşmek - встречаться
+- olur - хорошо
+
+s46 - 9, 10
+
+### 2024-03-26
+yürüyerek - пешком
+üzere - для того чтобы
+
+**`a e + rağmen`** - несмотря на
+- derse rağmen - несмотря на урок
+
+- benim sayemde - благодаря мне
+- senin sayende - благодаря тебе
+- onların sayesinde - благодаря им
+
+Ofisteki arkadaşlarımla Ersin Bey tarafından
+
+### 2024-03-25
+hem mont giyiliyor hem de tişört giyiliyor - одевают и пальто и футболку
+havadan sudan konuşmak - разговаривать о пустяках
+ezan okunuyor - читают молитву
+ben artık alıştım - я привык
+
+s 48 - 1, 2
+
+### 2024-03-28
+- рабочее место - iş yeri
+- бедный - fakir
+- до тебя - senden önce
+taşınmak - переезжать
+al listesi - список покупок
+
+s50 - 4, 6, 7
+
+50-4
+1. Dün yap**tığ**ın yemek çok güzeldi. Eline sağlık. - Вчерашнее блюдо было очень вкусным. Спасибо.
+2. Geçen hafta seyret**tiğ**in filmi beğendin mi? - Тебе понравился фильм, который ты посмотрел на прошлой неделе?
+3. Senin en beğen**diğ**in şarkıcı kim? - Кто твой любимый певец?
+4. Senin oku**duğ**un kitabın adı ne? - Как называется книга, которую ты читаешь?
+5. Greenpeace, dünyada en tanın**dığ**ı çevre örgütüdür. - Greenpeace - самая известная в мире экологическая организация.
+6. Sizin şimdi izle**diğ**iniz film güzel mi? - Фильм, который вы сейчас смотрите, хороший?
+7. Senin en sev**diğ**in yemek ne?
+8. Biraz sonra izley**eceğ**iniz filmi ben daha önce seyrettim. - Фильм, который вы собираетесь посмотреть через некоторое время, я уже видел.
+9. Bizim taşın**dığ**ımız semtte çok güzel lokantalar var. - В районе, куда мы переехали, есть много хороших ресторанов.
+10. Senin bana söylemek iste**diğ**in, sonra da vazgeç**tiğ**in şeyi çok merak ettim. Lütfen söyle! - Я очень хочу узнать, что ты хотел мне сказать, а потом передумал. Пожалуйста, скажи!
+11. Giy**diğ**im giysileri topladım, giysiye ihtiyacı ol**an** birine verdim. - Я собрал одежду, которую носил, и отдал её нуждающемуся.
+12. Bin**diğ**im otobüs nereden geçiyor? - Откуда проходит автобус, на который я сел?
+13. Alışverişe giderken al listesini yaparım. - Перед тем, как идти за покупками, я составляю список покупок.
+14. Söyle__________________ sözlerden çok, yap__________________ işler önemlidir.
+15. Kaç›r__________________ f›rsatlar için bu kadar üzülme.
+16. Anla__________________ eyleri bana sorun.
+17. Oku__________________ yaz› Atatürk’ten al›nt›d›r. Dikkatle dinle-
+menizi istiyorum.
+18. Toplant›da al__________________ kararlar çok yak›nda uygula-
+maya konacakt›r.
+19. u anda izle__________________ görüntüler amatör bir kamera
+taraf›ndan çekilmitir.
+20. Geçen ders ile__________________ konuyu tekrarlayabilir misi-
+niz?
+21. Sa¤da gör__________________ harabeler Roma döneminden
+kalm›t›r.
+22. Mankenlerimizin üstünde gör__________________ giysiler ‹tal-
+yan modac› taraf›ndan tasarlanm›t›r.
+23. Birazdan gir__________________ tünelin uzunlu¤u 3 kilomet-
+redir.
+24. Üzerinde çal›__________________ proje çok yak›nda halka
+tan›t›lacak.
+25. Yaa__________________ her olay hayat›n›zda yeni bir tecrübe-
+dir.
+26. Lütfen benim tahtaya yaz__________________ defterinize yaz›n.
+
+### 2024-04-01
+Senin oğlun sana ne hediye getirdi? - Что принёс тебе твой сын?
+güle güle kullan - пользуйтесь с удовольствием
+bir tanem nasılsın - моя единственная, как ты?
+
+- Sepetteki yiyecekleri çıkarmak.
+- Benim sepete koyduklarımı çıkar.
+- Bizim aldıklarımızı buraya getir.
+- Bizim aldıklarımıza bak.
+- Senin arayaçaklarına söyle.
+- Bizim izlediğimizi nerede buldun
+
+### 2024-04-04
+çok cihaz interneti yavaşlatıyor - много устройств замедляют интернет
+traş olmuşsun - ты побрился
+sana böyle yakışıyor - тебе так идёт
+araba solladı - машина обогнала
+sinirlenen - раздражённый
+iyileşen hastalarımız - наши выздоравливающие пациенты
+taburcu oluyor - выписывается
+среди вас - aranızda
+Biz Türkiye'de Gürcistandan gittik - Мы приехали в Турцию из Грузии
+Körpü denizin üstünden geçiyor - Мост проходит над морем
+
+
+### 2024-04-08
+
+54 - 1, 2, 3
+55 - 4, 5, 6, 7
