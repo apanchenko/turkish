@@ -1381,8 +1381,39 @@ taburcu oluyor - выписывается
 Biz Türkiye'de Gürcistandan gittik - Мы приехали в Турцию из Грузии
 Körpü denizin üstünden geçiyor - Мост проходит над морем
 
-
 ### 2024-04-08
 
 54 - 1, 2, 3
 55 - 4, 5, 6, 7
+
+Mimar Sinan Süleymaniye Camii’ni inşa ettiğ*i* zaman 70 yaşındaydı. - 
+54.1
+- Mimar Sinan, Süleymaniye Camii’ni inşa *ettiği zaman* 70 yaşındaydı. - Архитектор Синан построил мечеть Сулеймание, когда ему было 70 лет.
+- Dört kez ingiltere başbakanı olan Gladstone son kez göreve uğradığı yaşı 83’tü. - Гладстон, который был четыре раза премьер-министром Великобритании, последний раз пришёл к власти в возрасте 83 лет.
+- Goethe en büyük eseri Faust’u *yazdığı zaman* 82 yaşındaydı. - Гёте написал своё величайшее произведение «Фауст» в возрасте 82 лет.
+- Kolomb Amerika’yı keşfetiği zaman 50 yaşını çoktan geçmişti. - Когда Колумб открыл Америку, ему было уже за 50.
+- Pasteur kuduz aşısını *yaptığı zaman* 55 yaşındaydı. - Пастер сделал прививку от бешенства в возрасте 55 лет.
+- Fatih Sultan Mehmet ilk kez tahta *geldiğide* henüz 12 yaşındaydı. - Когда Фатих Султан Мехмет впервые взошёл на трон, ему было всего 12 лет.
+- Neil Armstrong, Ay’a ayak *başdığı zaman* yıl 1969’du. - Нил Армстронг ступил на Луну в 1969 году.
+- Ünlü müzisyen Mozart ilk bestesini *çıktığı zaman* 14 yaşındaydı. - Известный музыкант Моцарт написал своё первое произведение в возрасте 14 лет.
+- Marilyn Monroe *öldiği zaman* 40 yaşındaydı. - Мэрилин Монро умерла в возрасте 40 лет.
+- İndira Gandhi suikaste *bulduğu zaman* 67 yaşındaydı. - Индира Ганди было 67 лет, когда её убили.
+
+ayıramak - разделять
+ayıramadıkları düşündü - 
+ertesi - следующий
+götürmek - вести
+Çok korkmuştu sanırım - Она, кажется, очень испугалась
+sanamak - думать
+Bahar - весна
+
+54.2
+1. Yola *çıkacağın zaman* mutlaka haber ver. Seni uğurlamaya geleceğim.
+2. Anneler çocuklarına yeterince zaman ayıramadıkları *düşündükte* kendilerini çok rahatsız hissederler. - Матери чувствуют себя очень плохо, когда думают, что не уделяют детям достаточно времени.
+3. İnsan *yaşlandığı zaman* en çok ihtiyaç duyduğu şey kendisini dinleyecek biridir. - Когда человек стареет, ему больше всего нужен тот, кто его выслушает.
+4. Gece iyi *uyuduğu zaman* ertesi gün akşama kadar başım ağrıyor.
+5. Uzun bir yolculuğa *çıkacaksın zaman* arabanı servise götürüp bakım yaptırmalısın. - Когда собираешься в долгое путешествие, нужно отвезти свою машину в сервис и сделать техническое обслуживание.
+6. Çok korkmuştu sanırım, onu *gördüğü zamman* yüzü bembeyaz olmuştu. - Она, кажется, очень испугалась, когда увидела его, её лицо стало белым.
+7. Bahar *geldiğide*, doğa üzerindeki beyazları çıkarıp yeşil elbisesini giyer. - Когда приходит весна, природа снимает белые одежды и надевает зелёное платье.
+
+54.3
