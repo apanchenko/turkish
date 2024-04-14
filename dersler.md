@@ -1417,3 +1417,58 @@ Bahar - весна
 7. Bahar *geldiğide*, doğa üzerindeki beyazları çıkarıp yeşil elbisesini giyer. - Когда приходит весна, природа снимает белые одежды и надевает зелёное платье.
 
 54.3
+1. Bu filmi her izlediğimde çocuklu¤umu hatırlarım.
+2. Eşimle tanıştığım zaman ikimiz de üniversiteden mezun olmak üzereydik. - Когда я познакомился с женой, мы оба заканчивали университет.
+
+### 2024-04-11
+
+### Metin
+Alev: Ceren, merhaba! Nasılsın?
+Ceren: Merhaba, Alev, iyiyim. Sen nasılsın?
+Alev: Ben de iyiyim, sağ ol. Sen eve geldiğin zaman ocakta yemek var mıydı? - И у меня, спасибо. 
+Ceren: Evet, ben eve geldiğimde ocakta tavuk yemeği pişiyordu. Ben onu kontrol edip ocağın altını söndürdüm.
+Alev: Çok iyi yapmışsın. Onu ben onu evden çıktığım zaman unuttum.
+Ceren: Anladım. Evden çıkacağın zaman her ihtimale karşı ocağı kontrol et lütfen. Ben yemeğe baktığımda suyunu çekmek üzereydi. Yemek az kalsın yanacaktı.
+Alev: Evet, haklısın. Bir dahaki sefere daha dikkatli olurum.
+Ceren: Bu akşam arkadaşının yanına gidecek misin?
+Alev: Evet, gideceğim. Ama ona gitmeden önce alışveriş merkezine uğrayacağım. Benimle gelmek ister misin?
+Ceren: Evet, tabii ki.
+
+Birsaat sonra
+Ceren: Alev, bende mağazanın verdiği kart var. Bu kartla ürünleri daha uygunbir fiyata alabilirsin.
+Alev: Aa, evet, bu çok iyi olur. Ben kasada ürünleri ödeyeceğim zaman senden bu kartı isteyeceğim, o zaman!
+Ceren: Tamam, tabii ki. Her alışverişe geldiğinde benim kartımı kullanabilirsin ya da kasada kendine yeni bir kart çıkartabilirsin.
+Alev: Tamam, ödemeyi yaptığımda ayrıca kendim için bir kart rica edeceğim.
+
+Yarım saat sonra
+Alev: Ceren, ben buradan metroya binip gideceğim. Sen eve nasıl gideceksin?
+Ceren: Ben ise ilerideki otobüs durağından otobüse bineceğim.
+Alev: Tamam, ben metroya bindiğimde telefon kapalı olabilir. Beni aradığında ulaşamazsan merak etme.
+Ceren: Tamam. Lütfen arkadaşının yanına gittiğinde bana haber ver yoksa seni merak ederim.
+Alev: Tamam, canım. Sen de eve gittiğin zaman bana mutlaka haber ver.
+Ceren: Tamam, canım. Görüşürüz!
+Alev: Görüşürüz, canım!
+
+А - Привет Черен, как дела?
+Ч - Привет, Алев, у меня хорошо. Как у тебя?
+А - И у меня хорошо, спасибо. Была ли еда на плите когда ты пришла домой?
+Ч - Да когда я пришла домой, на плите готовилась курица. Я её проверила и потушила плиту.
+А - Ты хорошо сделала. Я её забыла выключить когда уходила из дома.
+Ч - Понятно. Пожалуйста, на всякий случай проверяй плиту когда будешь уходить из дома. Когда я увидела еду, вода почти выкипела и она чуть не сгорела.
+А - Да, ты права. В следующий раз буду внимательнее.
+Ч - Ты сегодня вечером идёшь к подруге?
+А - Да, пойду. Но перед этим зайду в торговый центр. Хочешь со мной?
+Ч - Да, конечно.
+== Через час ==
+Ч - Алев, у меня есть карта магазина. По этой карте лучше цены на продукты.
+А - Да, это очень хорошо. Тогда я возьму у тебя эту карту когда будем оплачивать товары на кассе.
+Ч - Хорошо. Ты можешь использовать мою карту каждый раз когда идёшь за покупками.
+А - Хорошо, когда оплачу и себе попрошу карту.
+== Через пол часа ==
+А - Черен, я отсюда сяду на метро. Как ты домой доберёшься?
+Ч - А я на следующий автобус сяду на автобусной остановке.
+А - Хорошо, я когда сажусь в метро телефон может выключится. Не переживай если не сможешь мне дозвониться.
+Ч - Хорошо, когда придёшь к подруге дай мне знать или я буду беспокоиться о тебе.
+А - Ок, дорогая. И ты когда домой придёшь обязательно дай мне знать.
+Ч - Увидимся.
+А - Увидимся.
