@@ -1383,21 +1383,8 @@ Körpü denizin üstünden geçiyor - Мост проходит над море�
 
 ### 2024-04-08
 
-54 - 1, 2, 3
+54 - 1+, 2+, 3
 55 - 4, 5, 6, 7
-
-Mimar Sinan Süleymaniye Camii’ni inşa ettiğ*i* zaman 70 yaşındaydı. - 
-54.1
-- Mimar Sinan, Süleymaniye Camii’ni inşa *ettiği zaman* 70 yaşındaydı. - Архитектор Синан построил мечеть Сулеймание, когда ему было 70 лет.
-- Dört kez ingiltere başbakanı olan Gladstone son kez göreve uğradığı yaşı 83’tü. - Гладстон, который был четыре раза премьер-министром Великобритании, последний раз пришёл к власти в возрасте 83 лет.
-- Goethe en büyük eseri Faust’u *yazdığı zaman* 82 yaşındaydı. - Гёте написал своё величайшее произведение «Фауст» в возрасте 82 лет.
-- Kolomb Amerika’yı keşfetiği zaman 50 yaşını çoktan geçmişti. - Когда Колумб открыл Америку, ему было уже за 50.
-- Pasteur kuduz aşısını *yaptığı zaman* 55 yaşındaydı. - Пастер сделал прививку от бешенства в возрасте 55 лет.
-- Fatih Sultan Mehmet ilk kez tahta *geldiğide* henüz 12 yaşındaydı. - Когда Фатих Султан Мехмет впервые взошёл на трон, ему было всего 12 лет.
-- Neil Armstrong, Ay’a ayak *başdığı zaman* yıl 1969’du. - Нил Армстронг ступил на Луну в 1969 году.
-- Ünlü müzisyen Mozart ilk bestesini *çıktığı zaman* 14 yaşındaydı. - Известный музыкант Моцарт написал своё первое произведение в возрасте 14 лет.
-- Marilyn Monroe *öldiği zaman* 40 yaşındaydı. - Мэрилин Монро умерла в возрасте 40 лет.
-- İndira Gandhi suikaste *bulduğu zaman* 67 yaşındaydı. - Индира Ганди было 67 лет, когда её убили.
 
 ayıramak - разделять
 ayıramadıkları düşündü - 
@@ -1406,15 +1393,6 @@ götürmek - вести
 Çok korkmuştu sanırım - Она, кажется, очень испугалась
 sanamak - думать
 Bahar - весна
-
-54.2
-1. Yola *çıkacağın zaman* mutlaka haber ver. Seni uğurlamaya geleceğim.
-2. Anneler çocuklarına yeterince zaman ayıramadıkları *düşündükte* kendilerini çok rahatsız hissederler. - Матери чувствуют себя очень плохо, когда думают, что не уделяют детям достаточно времени.
-3. İnsan *yaşlandığı zaman* en çok ihtiyaç duyduğu şey kendisini dinleyecek biridir. - Когда человек стареет, ему больше всего нужен тот, кто его выслушает.
-4. Gece iyi *uyuduğu zaman* ertesi gün akşama kadar başım ağrıyor.
-5. Uzun bir yolculuğa *çıkacaksın zaman* arabanı servise götürüp bakım yaptırmalısın. - Когда собираешься в долгое путешествие, нужно отвезти свою машину в сервис и сделать техническое обслуживание.
-6. Çok korkmuştu sanırım, onu *gördüğü zamman* yüzü bembeyaz olmuştu. - Она, кажется, очень испугалась, когда увидела его, её лицо стало белым.
-7. Bahar *geldiğide*, doğa üzerindeki beyazları çıkarıp yeşil elbisesini giyer. - Когда приходит весна, природа снимает белые одежды и надевает зелёное платье.
 
 54.3
 1. Bu filmi her izlediğimde çocuklu¤umu hatırlarım.
@@ -1472,3 +1450,54 @@ Alev: Görüşürüz, canım!
 А - Ок, дорогая. И ты когда домой придёшь обязательно дай мне знать.
 Ч - Увидимся.
 А - Увидимся.
+
+çıkmak - выходить
+karıştırınca - когда перемешаешь
+koyun - положите
+karıştırmayın - не перемешивайте
+kaynadığı - когда закипает
+köpüklenmeye başlamak - начинает пениться
+yani köpüklenmeye başladığı sırada - то есть когда начинает пениться
+yarısına - до половины
+dökün - налейте
+kalmak - оставаться
+kaynatın - доведите до кипения
+Kahve içeceğiniz zaman - 
+müsait - удобно
+bir komşunuzu ya da arkadaşınızı  - своего соседа или друга
+
+Dolaptan bir cezve ve iki fincan çıkarın.
+Cezvenin içine iki fincan içme suyu ekleyin.
+Suyu ekleyince iki tatlı kaşığı Türk kahvesi ekleyin ve karıştırmaya başlayın.
+Kahveyi ve suyu karıştırınca ocağa koyun ve ocağı açın.
+Kahve ocakta pişerken karıştırmayın.
+Kahve kaynadığı zaman, yani köpüklenmeye başladığı sırada, fincanların yarısına kadar dökün.
+Kalan kahveyi ocakta çok az daha kaynatın ve fincanlara dökün.
+Kahve içeceğiniz zaman, eğer müsaitseniz ve yalnız içmek istemiyorsanız bir komşunuzu ya da arkadaşınızı kahve içmeye davet edebilirsiniz.
+
+Allah korusun! - Боже упаси!
+uyuyordum - я спал
+uyandım - проснулся
+duyuyorum - слышу
+брать с собой - yanına almak
+
+hesap ödemek - оплатить счет
+ödeme yapmak - сделать платеж
+ilk olarak - в первую очередь
+Akşam yemeği yemeye gidiyorum - Я иду ужинать
+
+s 57 - 10
+1. -
+2. Murat sınıfa *girdiği sırada* öğretmen ders anlatıyordu. - Когда Мурат вошёл в класс, учитель читал урок.
+3. Garson elindeki tepsiyi yere *düşürür düşürmez* lokantadaki tüm müşteriler ona baktı. - Официант уронил поднос, и все посетители ресторана на него посмотрели.
+4. Başım *ağrıdığı zaman* bir aspirin alır biraz dinlenirim.
+5. Sen uzun zaman beni *aramadığında* ben çok meraklandım. - Когда ты долго меня не звонил, я очень волновался.
+6. Uzun süre Türkçe *konuşmayınca* birçok sözcüğü unutuyorum. - Когда я долго не говорю по-турецки, я забываю много слов.
+7. Şiiri ikinci kez *okuduğumda* şairin ne demek istediğini anladım. - Когда я прочитал стихотворение второй раз, я понял, что хотел сказать поэт.
+8. İşimi *bitirir bitirmez* sana yardım edeceğim. - Как только закончу работу, помогу тебе.
+9. Çok yemek *yediğim zaman* uyuyamıyorum. - Когда я много ем, я не могу спать.
+10. Gelecek ay Türkiye’ye *geldiğimiz zaman* Kapadokya’yı da görmek istiyoruz. - Когда мы приедем в Турцию в следующем месяце, мы хотим увидеть Каппадокию.
+11. Araba kullanmayı *öğrendiğin zaman* ehliyet alabilirsin. - Когда научишься водить машину, можешь получить водительские права.
+12. Toplantıda herkes birbiriyle tartışmaya *başlayınca* müdür toplantıyı erteledi. - Когда на собрании все начали спорить друг с другом, директор отложил собрание.
+13. Öğrenciler ödev yapmıyor *ister istemez* öğretmen küçük cezalar veriyor. - Ученики не делают домашнее задание, поэтому учитель вынужден давать маленькие наказания.
+14. Turizm mevsimi *başladığı zaman* Antalya’nın nüfusu ikiye katlanır. - Когда начинается туристический сезон, население Анталии удваивается.
