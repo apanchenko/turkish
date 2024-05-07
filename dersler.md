@@ -1501,3 +1501,66 @@ s 57 - 10
 12. Toplantıda herkes birbiriyle tartışmaya *başlayınca* müdür toplantıyı erteledi. - Когда на собрании все начали спорить друг с другом, директор отложил собрание.
 13. Öğrenciler ödev yapmıyor *ister istemez* öğretmen küçük cezalar veriyor. - Ученики не делают домашнее задание, поэтому учитель вынужден давать маленькие наказания.
 14. Turizm mevsimi *başladığı zaman* Antalya’nın nüfusu ikiye katlanır. - Когда начинается туристический сезон, население Анталии удваивается.
+
+### 2024-04-22
+vay canına! - Вот это да! Ух ты!
+Ben bu konuya yabancıyım - я чужой в этой теме
+Ben neden bekleyeyim?
+Su içeyim mi?
+Çünkü yeni ev için baraktırıyorsun
+gerçek olmak - сбыться
+ev yapmak - строить дом
+sizin sayınızde - благолдаря вам
+Bu kelimi 20 liraya satıyorum
+
+58? 12, 13
+
+### 2024-04-25
+- kahve makinesinde kahve yapıyorum - я делаю кофе в кофеварке
+- Sizin binanız asansörlü mü? - В вашем здании есть лифт?
+- değil mi? - не так ли?
+- sipariş vermek - заказать
+- ilham almak - вдохновляться
+- hamur tatları - десерт из теста
+- приготовить - hazırlamak
+- иногда - bazen
+- sıraya girmek - встать в очередь
+- cadde - улица
+- maya - дрожжи
+- market yoğurdu - магазинный йогурт
+- ekşi yoğurt - кислый йогурт
+- sürekli - постоянно
+- фантастические фильмы - fantastik filmler
+- patlamış mısır - попкорн
+- resmi şehir - столица
+- ciddi - серьёзный
+- kendi gözlerimle - своими глазами
+- Üstü kızarana kadar büreği fırından çıkarmamalısın.
+- yolculuğumuz bitene kadar aynı albümü dinledik.
+- bilgisayarla ilgili her problemi bana sorana kadar sen de öğrenmeye çalışsan olmaz mı?
+- börek - пирог
+- Sen neli börek yapıyorsun? - Какой пирог ты делаешь?
+- öğrenmem lazım - мне нужно узнать
+- böylelikle - таким образом
+- Mirakrmı mazur görün - простите за любопытство
+
+### 2024-04-29
+- Eğitim öğretim yılı - учебный год
+- avantaj - преимущество
+- çıkarım yaptım - я сделал вывод
+- ben anlıyorum ki - я понимаю что
+- türkler düşünüyorlar ki o Türk - турки думают что он турок
+- onun Türkçe aksanını duydun mu? - ты слышал его турецкий акцент?
+- konuşacağız - мы поговорим
+- bu arada - кстати
+- почти - neredeyse
+- nerde - где
+- бездорожье - arazi
+- güle güle kullan - пользуйтесь с удовольствием
+- hız yapmak - гонять
+- mesala - например
+- Sen bunu gözden kaçırdın - Ты это упустил из виду
+- İyi mi miş? - Хорошо ли это?
+- Hepimiz gideceğiz - Мы все пойдём
+
+s 62 - 5, 6
