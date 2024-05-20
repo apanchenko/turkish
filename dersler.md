@@ -1563,4 +1563,207 @@ Bu kelimi 20 liraya satıyorum
 - İyi mi miş? - Хорошо ли это?
 - Hepimiz gideceğiz - Мы все пойдём
 
-s 62 - 5, 6
+s 62 - 5, 6. 7.
+Sen yemeklerimi düzenli yemek yemek sormadan söyleyeyim. - 
+
+1. Eşime "Arabanın anahtarını aldın mı?" diye sordum.
+Eşime arabanın anahtarını al*ıp* al*madığını* sordum.
+
+2. Öğretmen, öğrencilere "Türkçe şarkı biliyor musunuz?" diye sordu.
+Öğretmen, öğrencilere Türkçe şarkı bil*ip* bil*mediklerini* sordu.
+
+3. Öğrencilerim bana, "Bu hafta sınav olacak mı?" diye soruyor.
+Öğrencilerim bu hafta sınav*ın* ol*up* ol*mayacağını* bana soruyor.
+
+4. Arkadaşıma, "Dünkü filmi beğendin mi?" diye sordum.
+Arkadaşıma, dünkü filmin beğen*ip* beğen*mediğini* sordum.
+
+5. Genç, kıza, "Benimle dans eder misin?" diye sordu.
+Genç, kıza onunla dans ed*ip* et*meyeceğini* sordu.
+
+6. Ahmet, Ayşe’ye, "Arzu’nun telefonunu biliyor musun?" diye sormuş.
+Ahmet, Ayşe’ye, Arzu’nun telefonunu bil*ip* bil*medığını* sordu.
+
+7. Çocuk, arkadaşına, "Ağlıyor musun?" diye sordu.
+Çocuk arkadaşına ağl*ıp* ağla*madığını* sordu. - Ребёнок спросил у друга плачет ли он.
+
+8. Çağla, Dilek’e, "Bu akşam bize gelecek misin?" diye soruyor.
+Çağla, Dilek'e, bu akşam ona gelip gel*meyeceğini* soruyor?
+
+9. Eşime, "Listedekileri marketten aldın mı? diye sordum.
+Eşime listedekileri marketten al*ıp* al*madığını* sordum.
+
+10. İstanbul’da misafir olacağım arkadaşıma, “Ankara’dan istediğin bir şey var mı?” diye sordum.
+İstanbul'da benim misafir olacağım arkadaşıma Ankara'dan istediği bir şey ol*up* ol*duğunu* sordum.
+
+11. Gül, Demir’e, "Daha önce yurt dışına çıktın mı?" diye sordu.
+Gül, Demir'e, daha önce yurt dışına çık*ıp* çık*tığını* sordu.
+
+12. Genç adam, sevgilisine, "Benimle evlenir misin?" diye sordu.
+Genç adam, sevgilisine onunla evlen*ip* evlen*meyeceğini* sordu.
+
+13. Hasta, doktora, "Tedaviden sonra iyileşecek miyim?" diye soruyor.
+Hasta, doktora, tedaviden sonra iyileş*ip* iyileş*mediğini* soruyor.
+
+14. Dedesi, torununa, "Bayramda bizi ziyaret edecek misiniz?" diye sormuş.
+Dede, torununa, bayramda bizi ziyaret ed*ip* et*meyeceğini* sormuş.
+
+15. Çocuğunuza sık sık, “Bir problemin var mı?” diye sorun.
+Çocuğunuza sık sık bir problemin ol*up* ol*madığını* sorun.
+
+16. Trafik polisi sürücüye, "Ehliyet ve ruhsatınız var mı?" diye sordu.
+Trafik polisi sürücüye onun ehliyet ve ruhsatı ol*up* ol*madığını* sordu.
+
+s 62 - 7
+Aday bilgisayar kullandığını cevap verdi.
+Müdür adaya daha önce bir yerde calışıp çalışmadığını sordu.
+    Evet, Fırat şirketler Grubunda sekreter olarak 5 yıl çalıştım. - Да, я работал в компании Фират Групп в течение 5 лет в качестве секретаря.
+
+
+### 2024-05-09
+
+проводить время - vakit geçirmek
+шашлыки - kebap
+вставать - kalkmak
+bayram olduğu için - потому что праздник
+прямо перед занятием - dersin hemen öncesinde
+izliyorum - я смотрю
+я очень занят - çok meşgulüm
+kışlık mont - зимняя куртка
+seni kıskanıyorum - я тебя завидую
+приезжайте - gelin
+serpme kahvalti - завтрак на тарелочках
+яишница - omlet
+сырники - peynirli börek
+- овсяная каша - yulaf ezmesi
+- странная каша продаётся - tuhaf bir yulaf lapası satılıyor
+- aç kanımıza - на пустой желудок
+- işaret dili - язык жестов
+- çocuk şögücü - детский труд
+- ortak yerler - общие места
+- Ben sana çok minnettarım - Я тебе очень благодарен
+
+
+- Ben ona bizim konuşmamızın gerekip gerekmediğini sordum. - Я спросил у него что нам нужно поговорить или нет.
+- Lena Meryem'e onların bulışmasının gerekip gerekmediğini sordu. - Лена спросила у Мерьем что им нужно встретиться или нет.
+- Окан спросил у Нермин что ей нужно зарабатывать или нет. - Okan Nermin'e onun kazanmasının gerekip gerekmediğini sordu.
+- Нермин сказала что у неё богатый муж. Ей не надо зарабатывать. - Nermin onun zengin kocası olduğunu söyledi. Onun kazanmasının gerekmediğini söyledi. Onun para kazanması lazım değil.
+- Берк спросил у Левента что ему нужно позвонить в больницу или нет. - Berk Levent'e onun hastaney*i* ara*masının* *gerekip gerekmediğini* sordu.
+- Севим спросила у Наташи что Окану нужно снять деньги из банкомата или нет. - Sevim Nataşa'ya Okan'ın bankamatikten para çek*mesinin* *gerekip gerekmediğini* sordu.
+- Мира спросила у Бесте что маме нужно купить подарок или нет. - Mira Beste'ye anneye hediye almanın *gerekip gerekmediğini* sordu.
+
+S 64 - 9
+s 65 - 11, 12
+
+### 2024-05-16
+
+- memnun musun? - ты доволен?
+- yüzmeyi biliyor musun? - ты умеешь плавать?
+
+s 66 - 1, 2, 3. 4
+
+список слов с беглыми гласными
+
+66 - 1
+1. İşçiler gelecek hafta greve başla*yacakları için* fabrikada bir süreliğine üretim yapılmayacak.
+2. Geçen yılki "Dil Konferansı"nda konuşmacı ben ol*duğum için* bu yılki konferansta konuşma yapmayacağım.
+3. Sokak çocukları yararına kermes düzenle*diğiden* harıl harıl çalışmaya başladık.
+4. Uzun zamandır düzenli beslenme*diğimden* bağışıklık sistemim zayıflamış.
+5. Metin, vejetaryen ol*duğu için* bizimle lokantaya geldiği zaman et kokusundan rahatsız oluyor.
+6. Dünkü toplantıda çok başarılı ol*düğü için* patron beni iki maaşlık ikramiye ile ödüllendirdi.
+7. Bir aydır odasını toplanma*dığıden* kızıma harçlık vermiyorum.
+8. Hiç et ve hayvansal ürün yeme*dikları için* unutkanlık yaşayan kişiler B vitamini alarak bu problemi çözmeye çalışabilirler.
+
+66 - 2
+1. Komşuna niçin selam vermedin?
+Ağzım dolu ol*duğu için* komşuna selam vermedim.
+
+2. Niçin bavulunu hazırladın?
+Başka bir ülkeye taşın*acağımdan* bavulumu hazırladım.
+
+3. Onlar asansöre niçin binmediler?
+Asansör tuhaf sesler çıkar*dığı için* binmediler.
+
+4. O niçin erkenden işten çıktı?
+Onun oğlun doğ*duğu için* erkeden işten çıktı.
+
+5. Niçin bu kadar kilo aldın?
+Sumo yarışmasına katıl*acağımdan* bu kadar kilo aldım.
+
+6. Neden arabanı satmaya karar verdin?
+Yeni araba al*acağımdan* arabamı satmaya karar verdim.
+
+7. Niçin tatile çıkamadın?
+Başka bir iş arkadaşı tatil yap*tığı için* ben tatile çıkamadım.
+
+8. Neden beni hiç aramıyorsun?
+Senin telefon numarası kaybet*tiğim için* seni hiç aramıyorum.
+
+9. Niçin bugün bu kadar yorgunsun?
+Bugün 15 kilometre koş*tuğumdan* bu kadar yorgunum.
+
+10. Dişinin ağrısı için neden doktora gitmiyorsun?
+Bu adada doktor yok*tuğu için* doktora gitmiyorum.
+Bu adada doktor olmadığı için doktora gitmiyorum.
+
+66 - 3
+1. Yemeği yaktım. Onun için dışarıda yemek zorunda kaldık.
+Yemeği yaktığım için dışarıda yemek zorunda kaldık.
+
+2. Baş balerin bileğini burktu. Onun için bu akşamki gösteri iptal edildi.
+Baş balerin bileğini burk*tuğu için* bu akşamki gösteri iptal edildi.
+
+3. 3 gün sonra bayram. Onun için tüm derslikleri bayrak ve balonlarla süsledik.
+3 gün sonra bayram ol*duğudan* tüm derslikleri bayrak ve balonlarla süsledik.
+
+4. Kapıyı açmaya çalışırken anahtarı kırdım. Onun için anahtarcı çağırmak zorunda kaldım.
+Kapıyı açmaya çalışırken anahtarı kır*dığımdan* anahtarcı çağırmak zorunda kaldım.
+
+5. Bu hafta maçımız yok. Onun için antrenman yapmak istemiyoruz.
+Bu hafta maçımız olma*dığı için* antrenman yapmak istemiyoruz.
+
+6. Bu evde ısınamıyoruz. Onun için yeni bir eve taşınmaktan başka çaremiz yok.
+Bu evde ısınama*dığımızdan* yeni bir eve taşınmaktan başka çaremiz yok.
+
+yararına kermes - ярмарка в пользу
+düzenlemek - организовать
+harıl harıl - усердно
+zayıflamış - ослабший
+düzenli beslenmek - регулярно питаться
+bağışıklık - иммунитет
+kokusu - запах
+maaşlık - зарплатный
+ikramiye ile ödüllendirdi - наградил премией
+harçlık - карманные деньги
+toplanmak - убирать
+toplantıda - на собрании
+hayvansal ürün - животный продукт
+unutkanlık yaşayan - страдающий забывчивостью
+çözmek - решить
+taşınmak - переезжать
+Yanıtlayalım - давайте ответим
+мой рот занят - ağzım dolu
+tuhaf sesler
+он издаваёт странные звуки - tuhaf sesler çıkarıyor
+film çekmek - снимать фильм
+photo çekmek - фотографировать
+соревнования - yarışma
+стоматолог - dişçi
+коллега по работе - iş arkadaşı
+bileğini burktu - вывихнул лодыжку
+
+### 2024-05-20
+her ihtemalle - на всякий случай
+gözün aydın - поздравляю! Когда долго ждал и дождался!
+nihaet - наконец-то
+anne babalar - родители
+mahsur kaldık - мы застряли
+bir daha - ещё раз
+başına geliyor - Это происходит с тобой
+az kalsın - чуть не
+ekin tarla - поле пшеницы
+demir - железо
+gümüş - серебро
+aynı şey - то же самое
+
+69 - 8, 9, 10
