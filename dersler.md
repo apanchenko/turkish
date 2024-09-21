@@ -1767,3 +1767,39 @@ gümüş - серебро
 aynı şey - то же самое
 
 69 - 8, 9, 10
+Senin bu kadar düşüncesizce hareken etmen  beni çok şaşırtıyor. - Твоё такое безрассудное поведение меня очень удивляет.
+öyle - так
+pişman oldum - я сожалею
+uzucu
+
+s 70 - 11, 12, 13, 14
+
+### 2024-05-27
+- Sıhhatler olsun! - с лёгким паром, или когда поздравляют со стрижкой
+- dişi / erkek - женщина / мужчина
+- özür dilerim - прошу прощения
+- kalkmasi - вставать
+- bilmek - знать
+- çok vemek - много знать
+- куда мне идти сейчас? - Ben şimdi nereye gideyim?
+- с кем мне поговорить? - Kiminle konuşayım?
+- зачем мне искать работу? - Ben neden iş arayayım? Babam zengin. Araba alır.
+- üzmek - огорчать
+- anlaştık - договорились
+
+s72 - 1, 2
+
+не хочется - istememek
+иду на работу - işe gidiyorum
+silmek - удалять
+böylelikle - таким образом
+несмотря на то что не хочется всё равно иду на работу
+наоборот - tersine
+küresel ısınma - глобальное потепление
+sürekli - постоянно
+düzenlşi - регулярно
+özür dilemek - извиняться
+zararlarını bilmelerine rağmen - несмотря на то что они знают о вреде
+Bademlideki Kiraz Festivali - Фестиваль вишни в Бадемли
+coşku içinde geçti - прошёл в восторге
+gözden kaçırdım - упустил из виду

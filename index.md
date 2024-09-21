@@ -507,6 +507,9 @@ Yüksekten korkarım
   - Öğretmenle öğrenciler sinemaya gidiyorlar.
   - Sen kiminle balkonda sigara içiyorum.
   - Ben metroyla işe gidiyorum.
+
+- gençle evlendim → я женился на молодой
+
 ### Винительный
 **`🥕 (y) + ıiuü`**
 - предмет конкретный
@@ -781,7 +784,17 @@ Yüksekten korkarım
 - Ben siz**in** beni dinle**meniz**i istiyorum → Я хочу, чтобы вы меня слушали
 - Ben on**un** binimle yaşama**sı**nı istiyorum → Я хочу, чтобы он жил со мной
 - Ben Anton'**un** okuma**sı**nı istiyorum → Я хочу, чтобы Антон читал
-- Ailem mühendis olmamı istiyor ama ben müzisyen olmak istiyorum → Моя семья хочет, чтобы я был инженером, но я хочу быть музыкантом
+- Ailem mühendis olmamı istiyor ama ben müzisyen olmak istiyorum → Моя семья хочет, чтобы я был 
+инженером, но я хочу быть музыкантом
+- Ayhan*'ın* çalışma*ması* çok kütü.
+- Kar*ın* şimdi yağ*ması* bizi engellemiyor.
+- Ben*im* patenle kay*mam* seni indilişiyor mu?
+
+🟢 dır dik duk dük / acak
+- Ben senin beni sevdiğini biliyorum. Saklama! → Я знаю, что ты меня любишь. Не скрывай!
+- Sen ben*im* sabah İzmire git*tiğimi* biiliyorsun. → Ты знаешь, что я уезжаю в Измир утром.
+- Sizinle tanış*tığ*ıma memnun oldum. → Рад знакомству с вами.
+- Herkesin içinde benimle çyle saygısızca konuş*tuğuna* çok sinirlendim. → Я очень разозлился, что он говорил со мной так невежливо перед всеми.
 
 🟢 **`la le`**
 - Ben spor yapmayla meşgulüm → Я занят тем, что занимаюсь спортом
@@ -1635,6 +1648,27 @@ Yüksekten korkarım
 - Yağmur yağdı *diye* yollar trafiğe kapandı. - Из-за дождя дороги закрыты.
 - Hava çok güneşli *diye* ev çok sıcak.
 - Ben sabah kara kedi gördüm *diye* yolumu değiştirdim.
+
+#### Несмотря на то что
+🟢 наст прош время **`🥕 + dık dik duk dük + афикс приналдежности + halde`**
+- Ben merkezde yaşa*dığım halde* hiçbir yere gitmiyorum. - Несмотря на то что я живу в центре, никуда не хожу.
+- Antalyada yaşa*dığım halde* her gün yüzmüyorum.
+- Benim eşim Antalya'da çalıştığı halde biz sıkça görüşüyoruz.
+- Несмотря на то что я жил в центре, никуда не ходил.
+
+🟢 наст прош время **`🥕 + ma + афикс приналдежности + rağmen / karşın`**
+- Ben anahtarı evde unutma*ma rağmen* endişelenmiyorum. - Несмотря на то что я забыл ключи дома, я не волнуюсь.
+- Ben Rusya'da yaşama*ma rağmen* Türkiye'de bir ev almak istiyorum. - Несмотря на то что я живу в России, я хочу купить дом в Турции.
+- Benim eşim Antalya'da çalışma*sına rağmen* biz sıkça görüşüyoruz.
+- Biz İstanmul'da yaşama*mıza rağmen* her gün Ankara'ya gidiyoruz.
+- İnsanlar zararlarını bil*melerine rağmen* sigara içmeyi bırakamıyorlar.
+- Biz tembel olmamıza rağmen her gün spor yapıyoruz.
+
+🟢 будущее время  **`🥕 + acaek ecek + афикс приналдежности + halde`**
+- Biz yarın işe gid*eçeğimiz halde* geç saatlere kadar kafede oturmduk. - Несмотря на то что мы завтра пойдём на работу, допоздна сидели в кафе.
+
+🟢 несмотря на + существительное **`🥕 + ma + афикс приналдежности + rağmen / karşın`**
+- Yağmur*a rağmen* dışarı çıktım - Несмотря на дождь, я вышел на улицу.
 
 ## Bağlaçlar
 - **ve** - и
